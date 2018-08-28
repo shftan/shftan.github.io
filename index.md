@@ -7,7 +7,9 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 <div class="row-fluid" id="about"><h3>About Me</h3>
 </div>
-I'm a PhD student at [Cornell Statistics](https://stat.cornell.edu/), minoring in Computer Science. I'm currently a visiting student at [UCSF](https://epibiostat.ucsf.edu/). Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness. 
+I'm a PhD student at [Cornell Statistics](https://stat.cornell.edu/), minoring in Computer Science. I'm currently a visiting student at [UCSF](https://epibiostat.ucsf.edu/). Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness, and am affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/).
+
+I'm advised by [Giles Hooker](http://faculty.bscb.cornell.edu/~hooker/) and [Martin Wells](https://courses.cit.cornell.edu/mtw1/), and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department, public hospitals system, and a media nonprofit. In 2014, I was a [Data Science for Social Good](https://dssg.uchicago.edu) fellow. I spent summer 2015 at Xerox Research (now [Naver Labs](http://www.europe.naverlabs.com)) and summers 2017 and 2018 at Microsoft Research, working with [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/). I'm on the board of the [Women in Machine Learning](https://wimlworkshop.org) organization.
 
 My <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a>
 
