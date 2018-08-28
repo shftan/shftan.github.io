@@ -25,14 +25,14 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
         </div>
 </div>
 
-<div class="row-fluid" id="contact"><h4>Contact</h4></div>
-I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT edu
+<div class="row-fluid" id="contact"><h3>Contact</h3></div>
+I'm in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT edu
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 5/18: Back at UC Santa Cruz again to lecture on interpretability
-- 4/18: New affiliation: Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
+- 4/18: Now affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 4/18: Visiting Novartis Pharmaceuticals's Statistics Methodology Group
 - 3/18: Giving talks at UC Santa Cruz and [UCSF](https://epibiostat.ucsf.edu/events/two-projects-interpretability-and-causal-inference-auditing-black-box-modelsimpact-evaluation)
 - 2/18: Giving talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
@@ -96,7 +96,7 @@ For older publications, click <a class="paper" href="olderpublications.html">her
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - Co-organizer (together with Rayid Ghani and Hadley Wickham), ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) session at JSM 2016
-- Co-organizer (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu), [2016 Women in Machine Learning workshop](https://wimlworkshop.org/2016/). WiML workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am proudest of the mentoring roundtables format we introduced that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together attendees and experts in close conversation   
+- Co-organizer (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu), [2016 Women in Machine Learning workshop](https://wimlworkshop.org/2016/). WiML workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am most proud of the mentoring roundtables format we introduced that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together attendees and experts in close conversation   
 - **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized (together with Ashudeep Singh) the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
 
 <div class="row-fluid"><h3>Miscellaneous</h3>
