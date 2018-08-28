@@ -71,7 +71,12 @@ span.highlight {
     font-weight: bold;
 }
 
+span.resource {
+    color: blue;
+    font-weight: bold;
+}
+
 a.paper {
-    color: darkgoldenrod;
+    color: lightseagreen;
     font-weight: bold;
 }
