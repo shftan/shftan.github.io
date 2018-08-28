@@ -17,11 +17,11 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
            <img src="picture.png" width = "95%" title="Sarah Tan" alt="Sarah Tan"/>
            <b>Hui Fen (Sarah) Tan</b><br>
          
-           <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a><br>
+           <a class="paper" href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a><br>
 
-           <a href="https://www.linkedin.com/in/shftan/">LinkedIn</a><br>
+           <a class="paper" href="https://www.linkedin.com/in/shftan/">LinkedIn</a><br>
 
-           <a href="https://github.com/shftan">Github</a>
+           <a class="paper" href="https://github.com/shftan">Github</a>
         </div>
 </div>
 
@@ -40,7 +40,7 @@ I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT 
 - 6/17: Grateful to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about the project [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students)
 
-For older news, click [here]({{ BASE_PATH }}/oldernews.html).
+For older news, click <a class="paper" href="oldernews.html">here</a>.
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
@@ -89,7 +89,7 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 
-For older publications, click [here]({{ BASE_PATH }}/olderpublications.html).
+For older publications, click <a class="paper" href="olderpublications.html">here</a>.
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
