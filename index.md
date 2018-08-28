@@ -50,16 +50,16 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
 <div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- #####Investigating Human + Machine Complementarity for Recidivism Predictions#####
+- <span style="font-weight:bold">Investigating Human + Machine Complementarity for Recidivism Predictions</span>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Submitted
-- [Transparent Model Distillation](https://arxiv.org/abs/1801.08640)
+- <span style="font-weight:bold">[Transparent Model Distillation](https://arxiv.org/abs/1801.08640)</span>
    - Tan, R Caruana, G Hooker, A Gordo
    - Working paper
 - Proximity Score Matching: Random Forest Metric Matching in Causal Inference
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
-   - <span style="color:red">Student Paper Award</span> from American Statistical Association's SSPA section
+   - <span style="color:red";"font-weight:bold">Student Paper Award</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
 - [Auditing Black-Box Models Using Transparent Model Distillation With Side Information](https://arxiv.org/abs/1710.06169)
    - Tan, R Caruana, G Hooker, Y Lou
