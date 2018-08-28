@@ -12,17 +12,17 @@ I'm a PhD student at [Cornell Statistics](https://stat.cornell.edu/), minoring i
 This website is under construction. For now, please see my <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a> or contact me at ht395 AT cornell.edu. 
 
 <div class="row-fluid" id="news"><h3>Events and Talks</h3>
+</div>
 - May 2018: Back in Santa Cruz again to give another talk at Responsible Data Science seminar
 - Apr 2018: Visiting Novartis Pharmaceuticals
 - Mar - May 2018: Giving talks at UC Santa Cruz and UCSF
 - Feb 2018: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
 - Jan 2018: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
-</div>
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
-R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
-[Data and code](https://github.com/shftan/auditblackbox) for distilling black-box risk scores paper
+- R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
+- [Data and code](https://github.com/shftan/auditblackbox) for distilling black-box risk scores paper
 
 <div class="row-fluid" id="publications"><h3>Publications, Presentations, Preprints</h3>
 <h4>Preprints</h4>
