@@ -59,6 +59,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
+   - Lightning talk, Atlantic Causal Inference Conference 2015
    - <span class="highlight">Student Paper Award</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
