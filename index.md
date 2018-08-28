@@ -16,6 +16,13 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
     <ul>
         <li>Investigating Human + Machine Complementarity for Recidivism Predictions</li>
         Tan, J Adebayo, K Inkpen, E Kamar
+        Preprint
+        <li>Auditing Black-Box Models Using Transparent Model Distillation With Side Information</li>
+        Tan, R Caruana, G Hooker, Y Lou
+        A short version appeared as an Oral at AAAI/ACM AIES 2018 and Spotlight at NIPS 2017 Interpretability Symposium
+        Media coverage: MIT Technology Review, Politico, Futurism 
+        Code and data
+    </ul>
   </div>
 </div>
 
