@@ -11,7 +11,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
         </div>
 
         <div class="span2">
-         <img src="picture.png" title="Sarah Tan" alt="Sarah Tan"/>
+         <img src="picture.png" width = "25%" title="Sarah Tan" alt="Sarah Tan"/>
         </div>
     
 </div>
