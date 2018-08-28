@@ -56,7 +56,7 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
 - <span style="font-weight:bold">[Transparent Model Distillation](https://arxiv.org/abs/1801.08640)</span>
    - Tan, R Caruana, G Hooker, A Gordo
    - Working paper
-- <span id="paper>Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
+- <span id="paper">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - <span style="color:red;font-weight:bold">Student Paper Award</span> from American Statistical Association's SSPA section
