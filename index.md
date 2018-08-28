@@ -20,13 +20,13 @@ Contact me at ht395 AT cornell.edu
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- June 2018: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
-- May 2018: Back at UC Santa Cruz again to lecture on interpretability
-- Apr 2018: Visiting Novartis Pharmaceuticals
-- Mar 2018: Giving talks at UC Santa Cruz and UCSF
-- Feb 2018: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
-- Jan 2018: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
-- July 2018: Honored to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
+- 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
+- 5/18: Back at UC Santa Cruz again to lecture on interpretability
+- 4/18: Visiting Novartis Pharmaceuticals
+- 3/18: Giving talks at UC Santa Cruz and UCSF
+- 2/18: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
+- 1/18: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
+- 6/17: Honored to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 
 <div class="row-fluid" id="publications"><h3>Publications, Presentations, Preprints</h3>
 <h4>Preprints</h4>
