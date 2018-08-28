@@ -13,7 +13,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
         </div>
 
         <div class="span4">
-           <img src="picture.png" width = "100%" title="Sarah Tan" alt="Sarah Tan"/>
+           <img src="picture.png" width = "95%" title="Sarah Tan" alt="Sarah Tan"/>
          
            <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a><br>
 
@@ -24,7 +24,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 </div>
 
 <div class="row-fluid" id="contact"></div>
-**Contact me**: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu 
+**Contact me**: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu.
 
 **For fun**: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
 
