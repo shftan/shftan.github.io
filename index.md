@@ -18,8 +18,8 @@ This website is under construction. For now, please see my <a href="https://scho
 <div class="row-fluid" id="publications"><h3>Publications</h3>
 </div>
 - Investigating Human + Machine Complementarity for Recidivism Predictions
-Tan, J Adebayo, K Inkpen, E Kamar
-Preprint
+   - Tan, J Adebayo, K Inkpen, E Kamar
+   - Preprint
 
 - Investigating Human + Machine Complementarity for Recidivism Predictions
 Tan, J Adebayo, K Inkpen, E Kamar
