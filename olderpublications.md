@@ -16,7 +16,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
    - Tan, R Rotabi, HGT Nguyen
    - Poster at _New York Academy of Sciences Machine Learning Symposium 2015_
 
-- <span id="paper">Identifying At-Risk Mothers for Targeted Interventions</span>
+- <span class="paper">Identifying At-Risk Mothers for Targeted Interventions</span>
    - S Abraham, J Lockhart, Tan, R Turner, Y Kim 
    - Presentation and poster at _KDD 2014 Session on Data Science for Social Good_
    - Talk at Chicago Python User Group
