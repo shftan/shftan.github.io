@@ -32,6 +32,8 @@ Contact me at ht395 AT cornell.edu
 - 1/18: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 - 6/17: Grateful to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about the project [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students).
+For older news, click [here]({{ BASE_PATH }}/oldernews.html)
+
 - Older: I'll be spending 6 months investigate dynamic topic models for long-term text corpuses thanks to a [Harmony Institute Research Fellowship](https://harmonylabs.org)
 - Older: The American Statistical Association interviewed me and other statistics fellows about [our experience in the Data Science for Social Good Fellowship](http://magazine.amstat.org/blog/2014/10/01/dssg/). It was a great program, highly recommended if you want to explore the data for social good space
 
