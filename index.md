@@ -11,9 +11,18 @@ I'm a PhD student at [Cornell Statistics](https://stat.cornell.edu/), minoring i
 
 This website is under construction. For now, please see my <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a> or contact me at ht395 AT cornell.edu. 
 
-<div class="row-fluid" id="news"><h3>News</h3>
+<div class="row-fluid" id="news"><h3>Events and Talks</h3>
+- May 2018: Back in Santa Cruz again to give another talk at Responsible Data Science seminar
+- Apr 2018: Visiting Novartis Pharmaceuticals
+- Mar - May 2018: Giving talks at UC Santa Cruz and UCSF
+- Feb 2018: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
+- Jan 2018: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 </div>
-- Talks
+
+<div class="row-fluid" id="code"><h3>Code & Data</h3>
+</div>
+R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
+[Data and code](https://github.com/shftan/auditblackbox) for distilling black-box risk scores paper
 
 <div class="row-fluid" id="publications"><h3>Publications, Presentations, Preprints</h3>
 <h4>Preprints</h4>
@@ -38,7 +47,7 @@ This website is under construction. For now, please see my <a href="https://scho
    - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org). 
    - [Code](https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190)
 - [A Double Parametric Bootstrap Test for Topic Models](https://arxiv.org/pdf/1711.07104.pdf)
-   - S Seto*, Tan*, G Hooker, M Wells 
+   - S Seto, Tan, G Hooker, M Wells 
    - NIPS 2017 Interpretability Symposium
 - [Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching](http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf)
    - Tan, G Hooker, M Wells 
@@ -56,3 +65,4 @@ This website is under construction. For now, please see my <a href="https://scho
    - <span style="color:red">2 Best Paper Awards</span> from the American Sociological Association's CITAMS and CBSM sections
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
+
