@@ -32,7 +32,7 @@ I'm based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT e
 </div>
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 5/18: Back at UC Santa Cruz again to lecture on interpretability
-- 4/18: Now affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
+- 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 4/18: Visiting Novartis Pharmaceuticals's Statistics Methodology Group
 - 3/18: Giving talks at UC Santa Cruz and [UCSF](https://epibiostat.ucsf.edu/events/two-projects-interpretability-and-causal-inference-auditing-black-box-modelsimpact-evaluation)
 - 2/18: Giving talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
