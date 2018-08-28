@@ -5,7 +5,7 @@ description: PhD student, Cornell Statistics
 keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
-<div class="row-fluid" id="news"><h3>More News</h3>
+<div class="row-fluid" id="news"><h3>Older News</h3>
 </div>
 - 8/16: I'll be spending 6 months investigate dynamic topic models for long-term text corpuses thanks to a [Harmony Institute Research Fellowship](https://harmonylabs.org)
 - 12/14: It was only months ago that I first learnt design thinking from a course in Cornell's MBA program. Then we spent spring break visiting the Stanford d.school and solving a design thinking challenge for Airbnb. Facilitating a design thinking workshop at Cornell wraps up this adventure. Read about the workshop [here](https://team42design.wordpress.com/")
