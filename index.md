@@ -50,10 +50,10 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
 <div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <span style="font-weight:bold">Investigating Human + Machine Complementarity for Recidivism Predictions</span>
+- <span id="paper">Investigating Human + Machine Complementarity for Recidivism Predictions</span>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Submitted
-- <span style="font-weight:bold">[Transparent Model Distillation](https://arxiv.org/abs/1801.08640)</span>
+- <a class="paper" href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
    - Tan, R Caruana, G Hooker, A Gordo
    - Working paper
 - <span id="paper">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
@@ -66,23 +66,23 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
    - A short version appeared as an <span style="color:red;font-weight:bold">Oral</span> at _AAAI/ACM AIES 2018_ and <span style="color:red;font-weight:bold">Spotlight</span> at _NIPS 2017 Interpretability Symposium_
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/)
    - [Code and Data](https://github.com/shftan/auditblackbox)
-- <span style="font-weight:bold">[Interpretable Approaches to Detect Bias in Black-Box Models](http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf)</span>
+- <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
    - _AAAI/ACM AIES 2018 Doctoral Consortium_
-- <span style="font-weight:bold">[A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City](https://www.sciencedirect.com/science/article/pii/S1755436516300755)</span>
+- <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
    - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
    - _Epidemics_ (2018)
    - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org). 
    - [Code](https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190)
-- <span style="font-weight:bold">[A Double Parametric Bootstrap Test for Topic Models](https://arxiv.org/pdf/1711.07104.pdf)</span>
+- <a class="paper" href="https://arxiv.org/pdf/1711.07104.pdf">A Double Parametric Bootstrap Test for Topic Models</a>
    - S Seto, Tan, G Hooker, M Wells 
    - _NIPS 2017 Interpretability Symposium_
-- <span style="font-weight:bold">[Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching](http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf)</span>
+- <a class="paper" href="http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf">Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching</a>
    - Tan, G Hooker, M Wells 
    - _NIPS 2016 Causal Inference Workshop_
-- <span style="font-weight:bold">[Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable](https://arxiv.org/abs/1611.07115)</span>
+- <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
    - Tan, G Hooker, M Wells
    - _NIPS 2016 Interpretability Workshop_
-- <span style="font-weight:bold">["No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013](http://journals.sagepub.com/doi/abs/10.1177/0003122415598534)</span>
+- <a class="paper" href="http://journals.sagepub.com/doi/abs/10.1177/0003122415598534">"No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013</a>
    - I Vasi, E Walker, JS Johnson, Tan 
    - _American Sociological Review_ (2015)
    - <span style="color:red;font-weight:bold">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections
