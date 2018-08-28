@@ -25,7 +25,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
         </div>
 </div>
 
-<div class="row-fluid" id="contact"><h4>Contact me</h4></div>
+<div class="row-fluid" id="contact"><h4>Contact</h4></div>
 I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
