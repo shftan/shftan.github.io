@@ -11,11 +11,13 @@ I'm a PhD student at [Cornell Statistics](https://stat.cornell.edu/), minoring i
 
 I'm advised by [Giles Hooker](http://faculty.bscb.cornell.edu/~hooker/) and [Martin Wells](https://courses.cit.cornell.edu/mtw1/), and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department, public hospitals system, and a media nonprofit. In 2014, I was a [Data Science for Social Good](https://dssg.uchicago.edu) fellow. I spent summer 2015 at Xerox Research (now [Naver Labs](http://www.europe.naverlabs.com)) and summers 2017 and 2018 at Microsoft Research, working with [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/). I'm on the board of the [Women in Machine Learning](https://wimlworkshop.org) organization.
 
-My <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a>
+<div class="row-fluid" id="contact"><h3>Contact</h3>
+</div>
+I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu. 
 
-For fun: Heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
+[Google Scholar](https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/shftan/) | [Github](https://github.com/shftan)
 
-Contact me at ht395 AT cornell.edu 
+For fun: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
