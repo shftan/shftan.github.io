@@ -32,7 +32,7 @@ Contact me at ht395 AT cornell.edu
 - 1/18: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 - 6/17: Grateful to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about the project [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students).
-- Older: The American Statistical Association interviewed me and other statistics fellows about [our experience in the Data Science for Social Good Fellowship](http://magazine.amstat.org/blog/2014/10/01/dssg/)
+- Older: The American Statistical Association interviewed me and other statistics fellows about [our experience in the Data Science for Social Good Fellowship](http://magazine.amstat.org/blog/2014/10/01/dssg/). It was a great program, highly recommended if you want to explore the data for social good space
 
 <div class="row-fluid" id="publications"><h3>Publications, Presentations, Preprints</h3>
 <h4>Preprints</h4>
@@ -76,3 +76,9 @@ Contact me at ht395 AT cornell.edu
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 
+<div class="row-fluid" id="service"><h3>Service</h3>
+</div>
+- Co-organizer (together with Rayid Ghani and Hadley Wickham), "Statistics for Social Good" session at JSM 2016.
+- Student representative, ICHPS 2018 Scientific Committee
+- Co-organizer, 2016 Women in Machine Learning workshop (600 attendees, 200 posters)
+- Cornell internal: I was president of the Statistics Graduate Society and co-organized the Cornell Machine Learning reading group.
