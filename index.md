@@ -15,12 +15,16 @@ This website is under construction. For now, please see my <a href="https://scho
 </div>
 - Talks
 
-<div class="row-fluid" id="publications"><h3>Publications</h3>
+<div class="row-fluid" id="publications"><h3>Publications, Presentations, Preprints</h3>
+   <h4>Preprints</h4>
 </div>
 - Investigating Human + Machine Complementarity for Recidivism Predictions
    - Tan, J Adebayo, K Inkpen, E Kamar
-   - Preprint
-
+   - Submitted
+- Transparent Model Distillation
+   - Tan, R Caruana, G Hooker, A Gordo
+   - Working paper
+   <h4>Publications</h4>
 - [Auditing Black-Box Models Using Transparent Model Distillation With Side Information](https://arxiv.org/abs/1710.06169)
    - Tan, R Caruana, G Hooker, Y Lou
    - A short version appeared as an Oral at AAAI/ACM AIES 2018 and Spotlight at NIPS 2017 Interpretability Symposium
