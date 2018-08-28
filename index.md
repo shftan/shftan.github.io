@@ -6,14 +6,13 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
 <div class="row-fluid" id="about">
-        <div class="span5">
-I'm a PhD student at [Cornell Statistics](https://stat.cornell.edu/), minoring in Computer Science. I'm currently a visiting student at [UCSF](https://epibiostat.ucsf.edu/). Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness, and am affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/).
+        <div class="span8">
+                I'm a PhD student at <a href="https://stat.cornell.edu/">Cornell Statistics</a>, minoring in Computer Science. I'm currently a visiting student at <a href="https://epibiostat.ucsf.edu/">UCSF</a>. Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness.
         </div>
 
         <div class="span2">
-         <img src="pics/picture.png" title="Sarah Tan" alt="Sarah Tan"/>
+         <img src="picture.png" title="Sarah Tan" alt="Sarah Tan"/>
         </div>
-    </div>
     
 </div>
 
@@ -34,6 +33,7 @@ Contact me: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT 
 </div>
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 5/18: Back at UC Santa Cruz again to lecture on interpretability
+- 4/18: New affiliation: Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 4/18: Visiting Novartis Pharmaceuticals
 - 3/18: Giving talks at UC Santa Cruz and UCSF
 - 2/18: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
