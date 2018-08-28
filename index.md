@@ -17,6 +17,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
         <div class="span4">
            <img src="picture.png" width = "95%" title="Sarah Tan" alt="Sarah Tan"/>
+           Hui Fen (Sarah) Tan<br>
          
            <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a><br>
 
