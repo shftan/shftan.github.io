@@ -21,7 +21,7 @@ This website is under construction. For now, please see my <a href="https://scho
 - Investigating Human + Machine Complementarity for Recidivism Predictions
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Submitted
-- Transparent Model Distillation
+- [Transparent Model Distillation](https://arxiv.org/abs/1801.08640)
    - Tan, R Caruana, G Hooker, A Gordo
    - Working paper
 <h4>Publications</h4>
@@ -30,6 +30,12 @@ This website is under construction. For now, please see my <a href="https://scho
    - A short version appeared as an Oral at AAAI/ACM AIES 2018 and Spotlight at NIPS 2017 Interpretability Symposium
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/)
    - [Code and Data](https://github.com/shftan/auditblackbox)
-
+- [Interpretable Approaches to Detect Bias in Black-Box Models](http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf)
+   - Tan
+   - AAAI/ACM AIES 2018 Doctoral Consortium
+- [A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City](https://www.sciencedirect.com/science/article/pii/S1755436516300755)
+   - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
+   - Epidemics 2018. Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org). 
+   - [Code](https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190)
 
 
