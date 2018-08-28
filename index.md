@@ -18,9 +18,9 @@ This website is under construction. For now, please see my <a href="https://scho
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- May 2018: Back in Santa Cruz again to give another talk at Responsible Data Science seminar
+- May 2018: Back at UC Santa Cruz again to lecture on interpretability
 - Apr 2018: Visiting Novartis Pharmaceuticals
-- Mar - May 2018: Giving talks at UC Santa Cruz and UCSF
+- Mar 2018: Giving talks at UC Santa Cruz and UCSF
 - Feb 2018: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
 - Jan 2018: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 
