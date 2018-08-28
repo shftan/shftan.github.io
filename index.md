@@ -96,8 +96,8 @@ For older publications, click [here]({{ BASE_PATH }}/olderpublications.html).
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - Co-organizer (together with Rayid Ghani and Hadley Wickham), ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) session at JSM 2016
-- Co-organizer, [2016 Women in Machine Learning workshop](https://wimlworkshop.org/2016/) (600 attendees, 200 posters)
-- **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
+- Co-organizer (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu), [2016 Women in Machine Learning workshop](https://wimlworkshop.org/2016/). WiML workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am proudest of the mentoring roundtables format we introduced that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together attendees and expert in close conversation   
+- **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized (together with Ashudeep Singh) the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
 
 <div class="row-fluid"><h3>Miscellaneous</h3>
 </div>
