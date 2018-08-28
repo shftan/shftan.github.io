@@ -10,6 +10,11 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
                 <p>I'm a PhD student at <a href="https://stat.cornell.edu/">Cornell Statistics</a>, minoring in Computer Science. I'm currently a visiting student at <a href="https://epibiostat.ucsf.edu/">UCSF</a>. Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness.</p>
                 
                 <p>I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department, public hospitals system, and a media nonprofit. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>
+                
+                <b>Contact me</b>: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu.
+
+<b>For fun</b>: heard of Erdos numbers? <a href="http://hallnumber.pythonanywhere.com">What's Your Hall Number?</a>
+
         </div>
 
         <div class="span4">
@@ -24,9 +29,6 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 </div>
 
 <div class="row-fluid" id="contact"></div>
-**Contact me**: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu.
-
-**For fun**: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
