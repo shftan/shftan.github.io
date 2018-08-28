@@ -66,6 +66,11 @@ span.paper {
     font-weight: bold;
 }
 
+span.highlight {
+    color: red;
+    font-weight: bold;
+}
+
 a.paper {
     color: #cc00ff;
     font-weight: bold;
