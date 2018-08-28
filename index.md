@@ -86,7 +86,7 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html)
 - ["No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013](http://journals.sagepub.com/doi/abs/10.1177/0003122415598534)
    - I Vasi, E Walker, JS Johnson, Tan 
    - _American Sociological Review_ (2015)
-   - <span style="color:red">2 Best Paper Awards</span> from the American Sociological Association's CITAMS and CBSM sections
+   - <span style="color:red">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 
