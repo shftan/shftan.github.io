@@ -62,7 +62,7 @@ h1, h2, h3, h4 {
 }
 
 span.paper {
-    color: teal;
+    color: lightseagreen;
     font-weight: bold;
 }
 
@@ -72,6 +72,6 @@ span.highlight {
 }
 
 a.paper {
-    color: #cc00ff;
+    color: darkgoldenrod;
     font-weight: bold;
 }
