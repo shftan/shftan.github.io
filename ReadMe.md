@@ -1,3 +1,3 @@
 ## Sarah Tan's website
-
-See (http://shftan.github.io)
+http://shftan.github.io
+ht395@cornell.edu
