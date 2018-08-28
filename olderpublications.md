@@ -7,7 +7,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 <div class="row-fluid"><h3>Older Publications & Presentations</h3>
 </div>
-- <span style="color:magenta;font-weight:bold">[Positive Unlabeled Learning for Anomaly Detection in Nut Allergies Protein Microarray Data](https://www.samsi.info/wp-content/uploads/2016/08/IMSM16_report.pdf)</span>
+- <span id="paper">[Positive Unlabeled Learning for Anomaly Detection in Nut Allergies Protein Microarray Data](https://www.samsi.info/wp-content/uploads/2016/08/IMSM16_report.pdf)</span>
    - FB Darku, S He, MA Hossain, S Ren, Tan, I Trejo-Lorenzo
    - [IMSM 2016](https://www.samsi.info/programs-and-activities/2016-2017-education-and-outreach-programs-and-workshops/2016-industrial-mathstat-modeling-workshop-for-graduate-students-july-17-27-2016/) technical report
    - Press releases: [SAMSI](https://www.samsi.info/imsm-2016-prepares-graduate-students-real-world-research/), [Rho, Inc](http://resources.rhoworld.com/blog/rho-participates-in-innovative-graduate-student-workshop-for-6th-consecutive-year)
