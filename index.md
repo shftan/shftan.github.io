@@ -42,6 +42,10 @@ Contact me at ht395 AT cornell.edu
 - [Transparent Model Distillation](https://arxiv.org/abs/1801.08640)
    - Tan, R Caruana, G Hooker, A Gordo
    - Working paper
+- Proximity Score Matching: Random Forest Metric Matching in Causal Inference
+   - Tan, D Miller, J Savage
+   - Full version in progress. Preliminary version in NIPS 2015 Machine Learning in Healthcare Workshop
+   - <span style="color:red">Student Paper Award</span> from the American Statistical Association's SSPA section
 <h4>Publications</h4>
 - [Auditing Black-Box Models Using Transparent Model Distillation With Side Information](https://arxiv.org/abs/1710.06169)
    - Tan, R Caruana, G Hooker, Y Lou
@@ -64,10 +68,6 @@ Contact me at ht395 AT cornell.edu
 - [Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable](https://arxiv.org/abs/1611.07115)
    - Tan, G Hooker, M Wells
    - NIPS 2016 Interpretability Workshop
-- Proximity Score Matching: Random Forest Metric Matching in Causal Inference
-   - Tan, D Miller, J Savage
-   - NIPS 2015 Machine Learning in Healthcare Workshop
-   - <span style="color:red">Student Paper Award</span> from the American Statistical Association's SSPA section
 - ["No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013](http://journals.sagepub.com/doi/abs/10.1177/0003122415598534)
    - I Vasi, E Walker, JS Johnson, Tan 
    - American Sociological Review 2015
