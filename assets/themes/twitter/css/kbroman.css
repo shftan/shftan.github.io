@@ -71,7 +71,7 @@ span.highlight {
     font-weight: bold;
 }
 
-span.resource {
+a.resource {
     color: blue;
     font-weight: bold;
 }
