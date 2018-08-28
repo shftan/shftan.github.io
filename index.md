@@ -27,7 +27,7 @@ This website is under construction. For now, please see my <a href="https://scho
 <h4>Publications</h4>
 - [Auditing Black-Box Models Using Transparent Model Distillation With Side Information](https://arxiv.org/abs/1710.06169)
    - Tan, R Caruana, G Hooker, Y Lou
-   - A short version appeared as an Oral at AAAI/ACM AIES 2018 and Spotlight at NIPS 2017 Interpretability Symposium
+   - A short version appeared as an <span style="color:red">Oral</span> at AAAI/ACM AIES 2018 and <span style="color:red">Spotlight</span> at NIPS 2017 Interpretability Symposium
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/)
    - [Code and Data](https://github.com/shftan/auditblackbox)
 - [Interpretable Approaches to Detect Bias in Black-Box Models](http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf)
@@ -49,7 +49,7 @@ This website is under construction. For now, please see my <a href="https://scho
 - Proximity Score Matching: Random Forest Metric Matching in Causal Inference
    - Tan, D Miller, J Savage
    - NIPS 2015 Machine Learning in Healthcare Workshop
-   - <span style="color:red">Student Paper Award</a> from the American Statistical Association's SSPA section
+   - <span style="color:red">Student Paper Award</span> from the American Statistical Association's SSPA section
 - ["No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013](http://journals.sagepub.com/doi/abs/10.1177/0003122415598534)
    - I Vasi, E Walker, JS Johnson, Tan 
    - American Sociological Review 2015
