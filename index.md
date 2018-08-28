@@ -13,8 +13,6 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
                 
                 <b>Contact me</b>: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu.
 
-<b>For fun</b>: heard of Erdos numbers? <a href="http://hallnumber.pythonanywhere.com">What's Your Hall Number?</a>
-
         </div>
 
         <div class="span4">
@@ -99,3 +97,10 @@ For older publications, click [here]({{ BASE_PATH }}/olderpublications.html)
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - Co-organizer, [2016 Women in Machine Learning workshop](https://wimlworkshop.org/2016/) (600 attendees, 200 posters)
 - Cornell internal: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group).
+
+<div class="row-fluid"><h3>Miscellaneous</h3>
+</div>
+- Heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
+- I played piano and (bad) ukulele in an Indian fusion carnatic band. We have some videos [here](https://www.youtube.com/playlist?list=PLXf9tYVf-PxM6ESEflnJ8_Oow-j66CgYt)
+
+
