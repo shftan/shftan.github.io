@@ -5,6 +5,13 @@ description: PhD student, Cornell Statistics
 keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
+<div class="page-header" id="publications"><h3>Research</h3></div>
+      <h4>Publications</h4>    
+      <font size="3">
+      <ul>
+        </div>
+
+
 <table class="wide">
 <tr>
   <td class="left">
