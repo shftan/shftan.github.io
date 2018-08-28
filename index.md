@@ -27,6 +27,7 @@ Contact me at ht395 AT cornell.edu
 - 2/18: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
 - 1/18: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 - 6/17: Honored to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
+- Older: The American Statistical Association interviewed me and other statistics fellows about [our experience in the Data Science for Social Good Fellowship](http://magazine.amstat.org/blog/2014/10/01/dssg/). It was a great program. Highly recommended if you are looking to explore the data for social good space
 
 <div class="row-fluid" id="publications"><h3>Publications, Presentations, Preprints</h3>
 <h4>Preprints</h4>
