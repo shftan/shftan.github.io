@@ -7,16 +7,16 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 <div class="row-fluid"><h3>Older Publications & Presentations</h3>
 </div>
-- <span style="font-weight:bold">[Positive Unlabeled Learning for Anomaly Detection in Nut Allergies Protein Microarray Data](https://www.samsi.info/wp-content/uploads/2016/08/IMSM16_report.pdf)</span>
+- <span style="color:magenta;font-weight:bold">[Positive Unlabeled Learning for Anomaly Detection in Nut Allergies Protein Microarray Data](https://www.samsi.info/wp-content/uploads/2016/08/IMSM16_report.pdf)</span>
    - FB Darku, S He, MA Hossain, S Ren, Tan, I Trejo-Lorenzo
    - [IMSM 2016](https://www.samsi.info/programs-and-activities/2016-2017-education-and-outreach-programs-and-workshops/2016-industrial-mathstat-modeling-workshop-for-graduate-students-july-17-27-2016/) technical report
    - Press releases: [SAMSI](https://www.samsi.info/imsm-2016-prepares-graduate-students-real-world-research/), [Rho, Inc](http://resources.rhoworld.com/blog/rho-participates-in-innovative-graduate-student-workshop-for-6th-consecutive-year)
 
-- <span style="font-weight:bold">[Using Ranking Support Vector Machines for Group Recommendations]({{ BASE_PATH }}/papers/nyas15.pdf)</span>
+- <span style="color:LightSlateGrey;font-weight:bold">[Using Ranking Support Vector Machines for Group Recommendations]({{ BASE_PATH }}/papers/nyas15.pdf)</span>
    - Tan, R Rotabi, HGT Nguyen
    - Poster at _New York Academy of Sciences Machine Learning Symposium 2015_
 
-- <span style="font-weight:bold">Identifying At-Risk Mothers for Targeted Interventions</span>
+- <span style="color:MidnightBlue;font-weight:bold">Identifying At-Risk Mothers for Targeted Interventions</span>
    - S Abraham, J Lockhart, Tan, R Turner, Y Kim 
    - Presentation and poster at _KDD 2014 Session on Data Science for Social Good_
    - Talk at Chicago Python User Group
