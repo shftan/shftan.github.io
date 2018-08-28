@@ -41,7 +41,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 - 6/17: Grateful to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about the project [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students)
 
-For older news, click [here]({{ BASE_PATH }}/oldernews.html)
+For older news, click [here]({{ BASE_PATH }}/oldernews.html).
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
@@ -90,12 +90,13 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html)
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 
-For older publications, click [here]({{ BASE_PATH }}/olderpublications.html)
+For older publications, click [here]({{ BASE_PATH }}/olderpublications.html).
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
-- Co-organizer (together with Rayid Ghani and Hadley Wickham), ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) session at JSM 2016.
+- Board member, [Women in Machine Learning](https://wimlworkshop.org) organization
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
+- Co-organizer (together with Rayid Ghani and Hadley Wickham), ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) session at JSM 2016
 - Co-organizer, [2016 Women in Machine Learning workshop](https://wimlworkshop.org/2016/) (600 attendees, 200 posters)
 - Cornell internal: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group).
 
