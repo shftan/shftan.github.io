@@ -21,9 +21,11 @@ This website is under construction. For now, please see my <a href="https://scho
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Preprint
 
-- Investigating Human + Machine Complementarity for Recidivism Predictions
-Tan, J Adebayo, K Inkpen, E Kamar
-Preprint
+- [Auditing Black-Box Models Using Transparent Model Distillation With Side Information](https://arxiv.org/abs/1710.06169)
+   - Tan, R Caruana, G Hooker, Y Lou
+   - A short version appeared as an Oral at AAAI/ACM AIES 2018 and Spotlight at NIPS 2017 Interpretability Symposium
+   - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/)
+   - [Code and Data](https://github.com/shftan/auditblackbox)
 
 
 
