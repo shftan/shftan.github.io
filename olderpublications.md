@@ -14,22 +14,22 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 - [Using Ranking Support Vector Machines for Group Recommendations]({{ BASE_PATH }}/papers/nyas15.pdf) 
    - Tan, R Rotabi, HGT Nguyen
-   - Poster at New York Academy of Sciences Machine Learning Symposium 2015
+   - Poster at _New York Academy of Sciences Machine Learning Symposium 2015_
 
 - Identifying At-Risk Mothers for Targeted Interventions
    - S Abraham, J Lockhart, Tan, R Turner, Y Kim 
-   - Presentation and poster at KDD 2014 Session on Data Science for Social Good
+   - Presentation and poster at _KDD 2014 Session on Data Science for Social Good_
    - Talk at Chicago Python User Group
    - [Blog post](https://dssg.uchicago.edu/2014/08/27/defining-the-undefinable-measuring-the-unmeasurable/) and [video](https://www.youtube.com/watch?v=AZhvzcxZFTM)
 
 - [Two Ways of Modeling Hospital Readmissions: Mixed and Marginal Models]({{ BASE_PATH }}/papers/jsm13.pdf)
    - Tan, R Low, S Ito, R Gregory, L Bielory, V Dunn
-   - Proceedings of Joint Statistical Meetings 2013
+   - Proceedings of _Joint Statistical Meetings 2013_
 
 - [Drug Interactions of Beta Blockers and Beta Agonists and Their Association with Hospital Admissions](http://support.sas.com/resources/papers/proceedings13/164-2013.pdf)
    - Tan, R Low, S Ito, R Gregory, V Dunn 
-   - Proceedings of SAS Global Forum 2013
+   - Proceedings of _SAS Global Forum 2013_
 
 - [Hospital Readmission Rates: Related To ED Volume, Population, And Economic Variables]({{ BASE_PATH }}/papers/saem12.pdf)
    - R Low, S Ito, R Gregory, L Rassi, Tan, C Jacobs 
-   - Society for Academic Emergency Medicine 2012
+   - _Society for Academic Emergency Medicine 2012_
