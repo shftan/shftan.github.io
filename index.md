@@ -6,8 +6,10 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
 <div class="row-fluid" id="about">
-        <div class="span8">
+        <div class="span7">
                 I'm a PhD student at <a href="https://stat.cornell.edu/">Cornell Statistics</a>, minoring in Computer Science. I'm currently a visiting student at <a href="https://epibiostat.ucsf.edu/">UCSF</a>. Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness.
+                
+                I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department, public hospitals system, and a media nonprofit. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.
         </div>
 
         <div class="span4">
@@ -16,7 +18,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
     
 </div>
 
-I'm advised by [Giles Hooker](http://faculty.bscb.cornell.edu/~hooker/) and [Martin Wells](https://courses.cit.cornell.edu/mtw1/), and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department, public hospitals system, and a media nonprofit. In 2014, I was a [Data Science for Social Good](https://dssg.uchicago.edu) fellow. I spent summer 2015 at Xerox Research (now [Naver Labs](http://www.europe.naverlabs.com)) and summers 2017 and 2018 at Microsoft Research, working with [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/). I'm on the board of the [Women in Machine Learning](https://wimlworkshop.org) organization.
+
 
 For fun: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
 
