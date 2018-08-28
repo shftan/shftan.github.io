@@ -59,11 +59,11 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
 - <span class="paper">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
-   - <span style="color:red;font-weight:bold">Student Paper Award</span> from American Statistical Association's SSPA section
+   - <span class="highlight">Student Paper Award</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
    - Tan, R Caruana, G Hooker, Y Lou
-   - A short version appeared as an <span style="color:red;font-weight:bold">Oral</span> at _AAAI/ACM AIES 2018_ and <span style="color:red;font-weight:bold">Spotlight</span> at _NIPS 2017 Interpretability Symposium_
+   - A short version appeared as an <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_ and <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/)
    - [Code and Data](https://github.com/shftan/auditblackbox)
 - <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
@@ -85,7 +85,7 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
 - <a class="paper" href="http://journals.sagepub.com/doi/abs/10.1177/0003122415598534">"No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013</a>
    - I Vasi, E Walker, JS Johnson, Tan 
    - _American Sociological Review_ (2015)
-   - <span style="color:red;font-weight:bold">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections
+   - <span class="highlight">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 
