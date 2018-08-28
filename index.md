@@ -33,9 +33,9 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 5/18: Back at UC Santa Cruz again to lecture on interpretability
 - 4/18: New affiliation: Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
-- 4/18: Visiting Novartis Pharmaceuticals
-- 3/18: Giving talks at UC Santa Cruz and UCSF
-- 2/18: Giving a talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
+- 4/18: Visiting Novartis Pharmaceuticals's Statistics Methodology Group
+- 3/18: Giving talks at UC Santa Cruz and [UCSF](https://epibiostat.ucsf.edu/events/two-projects-interpretability-and-causal-inference-auditing-black-box-modelsimpact-evaluation)
+- 2/18: Giving talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
 - 1/18: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 - 6/17: Grateful to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about the project [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students)
