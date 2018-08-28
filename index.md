@@ -22,11 +22,6 @@ Contact me: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT 
 
 [Github](https://github.com/shftan)
 
-<div class="row-fluid" id="code"><h3>Code & Data</h3>
-</div>
-- R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
-- [Data and code](https://github.com/shftan/auditblackbox) for distilling black-box risk scores paper
-
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
@@ -39,6 +34,11 @@ Contact me: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT 
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about the project [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students)
 
 For older news, click [here]({{ BASE_PATH }}/oldernews.html)
+
+<div class="row-fluid" id="code"><h3>Code & Data</h3>
+</div>
+- R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
+- [Data and code](https://github.com/shftan/auditblackbox) for distilling black-box risk scores paper
 
 <div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
 <h4>Preprints</h4>
