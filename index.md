@@ -23,12 +23,10 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
         </div>
 </div>
 
-##### For fun: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
-
 <div class="row-fluid" id="contact"></div>
-##### Contact me: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu 
+**Contact me**: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu 
 
-
+**For fun**: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
