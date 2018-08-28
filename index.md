@@ -56,12 +56,12 @@ For older news, click [here]({{ BASE_PATH }}/oldernews.html).
 - <span style="font-weight:bold">[Transparent Model Distillation](https://arxiv.org/abs/1801.08640)</span>
    - Tan, R Caruana, G Hooker, A Gordo
    - Working paper
-- <span style="font-weight:bold">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
+- <span id="paper>Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - <span style="color:red;font-weight:bold">Student Paper Award</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
-- <span style="font-weight:bold">[Auditing Black-Box Models Using Transparent Model Distillation With Side Information](https://arxiv.org/abs/1710.06169)</span>
+- <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
    - Tan, R Caruana, G Hooker, Y Lou
    - A short version appeared as an <span style="color:red;font-weight:bold">Oral</span> at _AAAI/ACM AIES 2018_ and <span style="color:red;font-weight:bold">Spotlight</span> at _NIPS 2017 Interpretability Symposium_
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/)
