@@ -35,7 +35,7 @@ Contact me at ht395 AT cornell.edu
 
 For older news, click [here]({{ BASE_PATH }}/oldernews.html)
 
-<div class="row-fluid" id="publications"><h3>Publications, Presentations, Preprints</h3>
+<div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
 <h4>Preprints</h4>
 </div>
 - Investigating Human + Machine Complementarity for Recidivism Predictions
