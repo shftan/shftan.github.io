@@ -9,7 +9,9 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 </div>
 I'm a PhD student at [Cornell Statistics](https://stat.cornell.edu/), minoring in Computer Science. I'm currently a visiting student at [UCSF](https://epibiostat.ucsf.edu/). Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness. 
 
-This website is still under construction. For now, please see my <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a> or contact me at ht395 AT cornell.edu. 
+My <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a>
+
+Contact me at ht395 AT cornell.edu 
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
