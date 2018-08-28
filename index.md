@@ -11,8 +11,6 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
                 
                 <p>I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department, public hospitals system, and a media nonprofit. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>
                 
-                <b>Contact me</b>: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu.
-
         </div>
 
         <div class="span4">
@@ -27,7 +25,8 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
         </div>
 </div>
 
-<div class="row-fluid" id="contact"></div>
+<div class="row-fluid" id="contact"><h4>Contact me</h4></div>
+I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
@@ -98,7 +97,7 @@ For older publications, click [here]({{ BASE_PATH }}/olderpublications.html).
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - Co-organizer (together with Rayid Ghani and Hadley Wickham), ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) session at JSM 2016
 - Co-organizer, [2016 Women in Machine Learning workshop](https://wimlworkshop.org/2016/) (600 attendees, 200 posters)
-- Cornell internal: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group).
+- **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
 
 <div class="row-fluid"><h3>Miscellaneous</h3>
 </div>
