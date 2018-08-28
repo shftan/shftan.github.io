@@ -72,7 +72,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
    - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
    - _Epidemics_ (2018)
-   - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org). 
+   - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
    - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
 - <a class="paper" href="https://arxiv.org/pdf/1711.07104.pdf">A Double Parametric Bootstrap Test for Topic Models</a>
    - S Seto, Tan, G Hooker, M Wells 
