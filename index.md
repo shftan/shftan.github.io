@@ -15,18 +15,18 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
         <div class="span4">
            <img src="picture.png" width = "100%" title="Sarah Tan" alt="Sarah Tan"/>
          
-           <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a>
+           <a href="https://scholar.google.com/citations?user=_tSKmPYAAAAJ&hl=en">Google Scholar</a><br>
 
-           <a href="https://www.linkedin.com/in/shftan/">LinkedIn</a>
+           <a href="https://www.linkedin.com/in/shftan/">LinkedIn</a><br>
 
            <a href="https://github.com/shftan">Github</a>
         </div>
 </div>
 
-For fun: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
+##### For fun: heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
 
 <div class="row-fluid" id="contact"></div>
-Contact me: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu 
+##### Contact me: I am based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell.edu 
 
 
 
