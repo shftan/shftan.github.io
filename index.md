@@ -50,7 +50,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <span class="paper">Investigating Human + Machine Complementarity for Recidivism Predictions</span>
+- <a class="paper" href="http://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Submitted
 - <a class="paper" href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
