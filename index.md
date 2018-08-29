@@ -31,7 +31,7 @@ I'm based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT e
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
-- 5/18: Back at UC Santa Cruz again to give a guest lecture on interpretability
+- 5/18: Back at UC Santa Cruz again to give guest lecture on interpretability
 - 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 4/18: Visiting Novartis Pharmaceuticals's Statistics Methodology Group
 - 3/18: Giving talks at UC Santa Cruz and [UCSF](https://epibiostat.ucsf.edu/events/two-projects-interpretability-and-causal-inference-auditing-black-box-modelsimpact-evaluation)
@@ -59,12 +59,12 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
-   - Lightning talk, Atlantic Causal Inference Conference 2015
+   - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">Student Paper Award</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
    - Tan, R Caruana, G Hooker, Y Lou
-   - A short version appeared as an <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_ and <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_
+   - <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_ and <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/)
    - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
 - <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
