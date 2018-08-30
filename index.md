@@ -87,6 +87,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - I Vasi, E Walker, JS Johnson, Tan 
    - _American Sociological Review_ (2015)
    - <span class="highlight">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections
+   - Talks: 2015 Computational Social Science Summit, 2014 European Group for Organizational Studies, 2016 UCLA Innovation & Creativity Workshop, and several others. 
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 
