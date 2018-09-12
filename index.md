@@ -53,7 +53,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="http://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Submitted
-- <span class="paper">Interpretability is Harder in the Multiclass Setting:Axiomatic Interpretability for Multiclass Additive Models</span>
+- <span class="paper">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</span>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - Submitted
 - <a class="paper" href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
