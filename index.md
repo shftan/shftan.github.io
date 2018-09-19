@@ -2,7 +2,7 @@
 layout: frontpage
 title: Sarah Tan
 description: PhD student, Cornell Statistics
-keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
+keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, computational social science
 ---
 
 <div class="row-fluid" id="about">
@@ -67,14 +67,15 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <h4>Publications</h4>
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
    - Tan, R Caruana, G Hooker, Y Lou
-   - <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_ and <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_
+   - <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_
+   - Also appeared in: <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_, <span class="highlight">Spotlight</span> at _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ 
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
    - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
 - <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
    - _AAAI/ACM AIES 2018 Doctoral Consortium_
 - <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
    - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
-   - _Epidemics_ (2018)
+   - _Epidemics_ 2018
    - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
    - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
 - <a class="paper" href="https://arxiv.org/pdf/1711.07104.pdf">A Double Parametric Bootstrap Test for Topic Models</a>
@@ -88,7 +89,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _NIPS 2016 Interpretability Workshop_
 - <a class="paper" href="http://journals.sagepub.com/doi/abs/10.1177/0003122415598534">"No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013</a>
    - I Vasi, E Walker, JS Johnson, Tan 
-   - _American Sociological Review_ (2015)
+   - _American Sociological Review_ 2015
    - <span class="highlight">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections 
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
