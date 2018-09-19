@@ -68,7 +68,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
    - Tan, R Caruana, G Hooker, Y Lou
    - <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_
-   - Also appeared in: <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_, <span class="highlight">Spotlight</span> at _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ 
+   - Also appeared as: <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_, <span class="highlight">Spotlight</span> at _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ 
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
    - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
 - <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
