@@ -63,7 +63,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
-   - <span class="highlight">Student Paper Award</span> from American Statistical Association's SSPA section
+   - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
    - Tan, R Caruana, G Hooker, Y Lou
