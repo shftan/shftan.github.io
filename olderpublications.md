@@ -14,11 +14,11 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 - <a class="paper" href="papers/nyas15.pdf">Using Ranking Support Vector Machines for Group Recommendations</a>
    - Tan, R Rotabi, HGT Nguyen
-   - Poster at _New York Academy of Sciences Machine Learning Symposium 2015_
+   - <a href="papers/nyas15poster.pdf">Poster</a> at _New York Academy of Sciences Machine Learning Symposium 2015_
 
 - <span class="paper">Identifying At-Risk Mothers for Targeted Interventions</span>
    - S Abraham, J Lockhart, Tan, R Turner, Y Kim 
-   - [Presentation](https://www.youtube.com/watch?v=AZhvzcxZFTM) and <a href="papers/kdd2014sessionposter.pdf">poster</a> at _KDD 2014 Session on Data Science for Social Good_
+   - [Presentation](https://www.youtube.com/watch?v=AZhvzcxZFTM) and <a href="papers/kdd14sessionposter.pdf">poster</a> at _KDD 2014 Session on Data Science for Social Good_
    - Talk at Chicago Python User Group
    - [Blog post](https://dssg.uchicago.edu/2014/08/27/defining-the-undefinable-measuring-the-unmeasurable/)
 
