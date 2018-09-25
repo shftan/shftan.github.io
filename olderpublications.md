@@ -18,7 +18,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 - <span class="paper">Identifying At-Risk Mothers for Targeted Interventions</span>
    - S Abraham, J Lockhart, Tan, R Turner, Y Kim 
-   - [Presentation](https://www.youtube.com/watch?v=AZhvzcxZFTM) and poster at _KDD 2014 Session on Data Science for Social Good_
+   - [Presentation](https://www.youtube.com/watch?v=AZhvzcxZFTM) and <a href="papers/kdd2014sessionposter.pdf">poster</a> at _KDD 2014 Session on Data Science for Social Good_
    - Talk at Chicago Python User Group
    - [Blog post](https://dssg.uchicago.edu/2014/08/27/defining-the-undefinable-measuring-the-unmeasurable/)
 
