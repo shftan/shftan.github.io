@@ -65,7 +65,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
-- <a class="paper" href="https://arxiv.org/abs/1710.06169">Auditing Black-Box Models Using Transparent Model Distillation With Side Information</a>
+- <a class="paper" href="papers/aies18.pdf">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
    - Tan, R Caruana, G Hooker, Y Lou
    - <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_
    - Also appeared as: <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_, <span class="highlight">Spotlight</span> at _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ 
