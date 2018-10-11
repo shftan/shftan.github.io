@@ -52,13 +52,13 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 </div>
 - <a class="paper" href="http://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
-   - Submitted
+   - Under review
+- <span class="paper">Learning Global Additive Explanations for Neural Nets Using Model Distillation</span>
+   - Tan, R Caruana, G Hooker, P Koch, A Gordo
+   - Under review. Very early version: <a href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
 - <span class="paper">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</span>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
-   - Submitted
-- <a class="paper" href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
-   - Tan, R Caruana, G Hooker, A Gordo
-   - Working paper
+   - Under review
 - <span class="paper">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
@@ -71,13 +71,13 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Also appeared as: <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_, <span class="highlight">Spotlight</span> at _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ 
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
    - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
-- <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
-   - _AAAI/ACM AIES 2018 Doctoral Consortium_
 - <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
    - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
    - _Epidemics_ 2018
    - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
    - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
+- <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
+   - _AAAI/ACM AIES 2018 Doctoral Consortium_
 - <a class="paper" href="https://arxiv.org/pdf/1711.07104.pdf">A Double Parametric Bootstrap Test for Topic Models</a>
    - S Seto, Tan, G Hooker, M Wells 
    - _NIPS 2017 Interpretability Symposium_
