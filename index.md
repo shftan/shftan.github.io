@@ -66,7 +66,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
-- <a class="paper" href="papers/aies18.pdf">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
+- <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
    - Tan, R Caruana, G Hooker, Y Lou
    - <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_
    - Also appeared as: <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_, <span class="highlight">Spotlight</span> at _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ 
@@ -77,9 +77,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _Epidemics_ 2018
    - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
    - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
-- <a class="paper" href="http://www.aies-conference.com/wp-content/papers/student/1st_AIES-DC_paper_55.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
+- <a class="paper" href="papers/aiesdc18.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
    - _AAAI/ACM AIES 2018 Doctoral Consortium_
-- <a class="paper" href="https://arxiv.org/pdf/1711.07104.pdf">A Double Parametric Bootstrap Test for Topic Models</a>
+- <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
    - S Seto, Tan, G Hooker, M Wells 
    - _NIPS 2017 Interpretability Symposium_
 - <a class="paper" href="http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf">Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching</a>
