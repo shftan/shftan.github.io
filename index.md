@@ -58,7 +58,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">Learning Global Additive Explanations for Neural Nets Using Model Distillation</span>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review. Very early version: <a href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
-- <span class="paper">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</span>
+- <a class="paper" href="https://arxiv.org/abs/1810.09092">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - Under review
 - <span class="paper">Proximity Score Matching: Random Forest Metric Matching in Causal Inference</span>
