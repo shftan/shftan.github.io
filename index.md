@@ -30,7 +30,8 @@ I'm based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT e
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- Upcoming: Attending Microsoft Research PhD Summit Workshop and AT&T Labs Graduate Student Symposium
+- 11/18: Giving talk at AT&T Labs Graduate Student Symposium
+- 10/18: Attending Microsoft Research PhD Summit Workshop
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 5/18: Back at UC Santa Cruz again to give guest lecture on interpretability
 - 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
