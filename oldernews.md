@@ -7,6 +7,8 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 <div class="row-fluid" id="news"><h3>Older News</h3>
 </div>
+- 2/18: Giving talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
+- 1/18: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 - 1/17: Presented poster at Amazon Graduate Research Symposium
 - 8/16: I'll be spending 6 months investigating dynamic topic models for long-term text corpuses thanks to a [Harmony Institute Research Fellowship](https://harmonylabs.org)
 - 12/14: It was only months ago that I first learnt design thinking from a course in Cornell's MBA program. Then we spent spring break visiting the Stanford d.school and solving a design thinking challenge for Airbnb. Facilitating a design thinking workshop at Cornell wraps up this adventure. Read about the workshop [here](https://team42design.wordpress.com/")
