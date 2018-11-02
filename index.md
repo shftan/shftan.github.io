@@ -20,7 +20,7 @@ keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, co
         <div class="span8">
                 <p>I'm a PhD student at <a href="https://stat.cornell.edu/">Cornell Statistics</a>, minoring in Computer Science. I'm currently a visiting student at <a href="https://epibiostat.ucsf.edu/">UCSF</a>. Broadly, I work on interpretability of machine learning methods. I'm also interested in causal inference and algorithmic fairness.</p>
                 
-                <p>I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department, public hospitals system, and a media nonprofit. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>
+                <p>I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> is on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>
                 
         </div>
 </div>
@@ -31,7 +31,7 @@ I'm based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT e
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
 - 11/18: Giving talk at AT&T Labs Graduate Student Symposium
-- 10/18: Attending Microsoft Research PhD Summit Workshop
+- 10/18: Presented poster at Microsoft Research PhD Summit Workshop
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 5/18: Back at UC Santa Cruz again to give guest lecture on interpretability
 - 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
@@ -52,12 +52,12 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <a class="paper" href="http://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
-   - Tan, J Adebayo, K Inkpen, E Kamar
-   - Under review
 - <span class="paper">Learning Global Additive Explanations for Neural Nets Using Model Distillation</span>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review. Very early version: <a href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
+- <a class="paper" href="http://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
+   - Tan, J Adebayo, K Inkpen, E Kamar
+   - Under review
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - Under review
