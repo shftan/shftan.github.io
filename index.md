@@ -53,7 +53,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">Learning Global Additive Explanations for Neural Nets Using Model Distillation</span>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review. Very early version: <a href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
-- <a class="paper" href="http://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
+- <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</a>
