@@ -50,9 +50,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <span class="paper">Learning Global Additive Explanations for Neural Nets Using Model Distillation</span>
+- <a class="paper" href="papers/globaladditive.pdf">Learning Global Additive Explanations for Neural Nets Using Model Distillation</a>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
-   - Under review. Very early version: <a href="https://arxiv.org/abs/1801.08640">Transparent Model Distillation</a>
+   - Under review. 
 - <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
