@@ -32,12 +32,10 @@ I'm based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT e
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 12/18: Will be co-organizing a [workshop on debugging ML models](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) at ICLR 2019! Stay tuned for details.
+- 12/18: Co-organizing a [workshop on Debugging ML models](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) at ICLR 2019! Stay tuned for details.
 - 11/18: Giving talk at AT&T Labs Graduate Student Symposium
-- 10/18: Presented poster at Microsoft Research PhD Summit Workshop
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 5/18: Back at UC Santa Cruz again to give guest lecture on interpretability
-- 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 4/18: Visiting Novartis Pharmaceuticals's Statistics Methodology Group
 - 3/18: Giving talks at UC Santa Cruz and [UCSF](https://epibiostat.ucsf.edu/events/two-projects-interpretability-and-causal-inference-auditing-black-box-modelsimpact-evaluation)
 - 6/17: Grateful to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
