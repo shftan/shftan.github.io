@@ -99,7 +99,7 @@ For older publications, click <a class="paper" href="olderpublications.html">her
 </div>
 - Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization
-- Invited mentor, [Women in Machine Learning 2018 Workshop](https://wimlworkshop.org/2018) mentoring roundtables
+- Mentor, [Women in Machine Learning 2018 Workshop](https://wimlworkshop.org/2018/program/) mentoring roundtables
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at ICHPS 2018
 - Co-organizer (together with Rayid Ghani and Hadley Wickham), Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016
