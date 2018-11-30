@@ -7,6 +7,8 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 <div class="row-fluid" id="news"><h3>Older News</h3>
 </div>
+- 10/18: Presented poster at Microsoft Research PhD Summit Workshop
+- 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 2/18: Giving talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
 - 1/18: Attending [BIRS Workshop on Machine Learning and Statistical Inference](http://www.birs.ca/events/2018/5-day-workshops/18w5054)
 - 1/17: Presented poster at Amazon Graduate Research Symposium
