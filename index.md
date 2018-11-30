@@ -32,6 +32,7 @@ I'm based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT e
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 12/18: Will be co-organizing a [workshop on debugging ML models](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) at ICLR 2019! Stay tuned for details.
 - 11/18: Giving talk at AT&T Labs Graduate Student Symposium
 - 10/18: Presented poster at Microsoft Research PhD Summit Workshop
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
