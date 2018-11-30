@@ -28,7 +28,7 @@ keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, co
 <div class="row-fluid" id="contact"><h3>Contact</h3></div>
 I'm based in the SF Bay Area in 2018. You can reach me at ht395 AT cornell DOT edu. 
 
-<span class="highlight">I am on the job market!</span> I will be attending NeurIPS in Montreal. Please reach out if you would like to meet.
+<span class="highlight">I am on the job market!</span> Here is <a class="paper" href="SarahTan_ShortCV_General.pdf">my cv</a>. I will be attending NeurIPS in Montreal. Please reach out if you would like to meet.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
