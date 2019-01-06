@@ -54,9 +54,11 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="papers/globaladditive.pdf">Learning Global Additive Explanations for Neural Nets Using Model Distillation</a>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review 
+   - Preliminary version in _NeurIPS 2018 Machine Learning for Health Workshop_
 - <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
+   - Preliminary version in _NeurIPS 2018 Workshop on Ethical, Social and Governance Issues in AI_ (<span class="highlight">Spotlight</span>)
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - Under review
@@ -68,8 +70,8 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <h4>Publications</h4>
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
    - Tan, R Caruana, G Hooker, Y Lou
-   - <span class="highlight">Oral</span> at _AAAI/ACM AIES 2018_
-   - Also appeared as: <span class="highlight">Spotlight</span> at _NIPS 2017 Interpretability Symposium_, <span class="highlight">Spotlight</span> at _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ 
+   - _AAAI/ACM AIES 2018_ (<span class="highlight">Oral</span>)
+   - Also appeared in: _NIPS 2017 Interpretability Symposium_ (<span class="highlight">Spotlight</span>), _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ (<span class="highlight">Spotlight</span>)
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
    - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
 - <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
