@@ -110,7 +110,6 @@ For older publications, click <a class="paper" href="olderpublications.html">her
 
 <div class="row-fluid"><h3>Miscellaneous</h3>
 </div>
-- Heard of Erdos numbers? [What's Your Hall Number?](http://hallnumber.pythonanywhere.com)
 - I played piano and (bad) ukulele in an Indian fusion carnatic band. We have some videos [here](https://www.youtube.com/playlist?list=PLXf9tYVf-PxM6ESEflnJ8_Oow-j66CgYt)
 
 
