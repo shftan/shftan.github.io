@@ -99,7 +99,7 @@ For older publications, click <a class="paper" href="olderpublications.html">her
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
-- Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
+- Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Mentor, [2018 WiML Workshop](https://wimlworkshop.org/2018/program/) mentoring roundtables
 - Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018
