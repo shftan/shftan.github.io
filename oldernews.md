@@ -11,7 +11,6 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 - 11/18: Giving talk at AT&T Labs Graduate Student Symposium
 - 10/18: Presented poster at Microsoft Research PhD Summit Workshop
 - 5/18: Back at UC Santa Cruz again to give guest lecture on interpretability
-- 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 4/18: Visiting Novartis Pharmaceuticals's Statistics Methodology Group
 - 3/18: Giving talks at UC Santa Cruz and [UCSF](https://epibiostat.ucsf.edu/events/two-projects-interpretability-and-causal-inference-auditing-black-box-modelsimpact-evaluation)
 - 2/18: Giving talk at [AIES 2018](http://www.aies-conference.com), and participating in doctoral consortium
