@@ -33,8 +33,9 @@ I'm based in the SF Bay Area in 2019. You can reach me at ht395 AT cornell DOT e
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
 - 2/19: On the program committee of [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
-- 12/18: Co-organizing a [workshop on Debugging ML models] at ICLR 2019. [Submit your paper!](https://debug-ml-iclr2019.github.io/) 
+- 12/18: Co-organizing [ICLR 2019 Debugging ML models workshop](https://debug-ml-iclr2019.github.io/). Submit your paper! Deadline 3/1 
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
+- 4/18: Affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 6/17: Grateful to receive [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about it [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students)
 
