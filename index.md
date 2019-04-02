@@ -30,7 +30,8 @@ I'm currently based in the SF Bay Area. You can reach me at ht395 AT cornell DOT
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 3/19: TA-ing a [ML for biomedicine course at UCSF](http://ticr.ucsf.edu/courses/schedule/machine_learning.html). This is one of the first official ML courses at UCSF and a fun opportunity to help shape the curriculum.
+- 4/19: Giving talk at Columbia Data Science Institute's Data for Good seminar series
+- 3/19: TA-ing a [ML for biomedicine course at UCSF](http://ticr.ucsf.edu/courses/schedule/machine_learning.html). Looking forward to this fun opportunity to help shape the curriculum for one of the first official ML courses at UCSF
 - 2/19: On the program committee of [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
 - 12/18: Co-organizing [ICLR 2019 Debugging ML models workshop](https://debug-ml-iclr2019.github.io/). Submit your paper or demo!
 - 6/18: Honored to receive [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
