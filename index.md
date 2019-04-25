@@ -30,13 +30,13 @@ I'm currently based in the SF Bay Area. You can reach me at ht395 AT cornell DOT
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 4/19: I will be giving a talk in Columbia's Data Science Institute's Data for Good seminar series.
+- 4/19: I will be giving a talk at Columbia's Data Science Institute in the Data for Good seminar series.
 - 3/19: I'm excited to TA the new [ML for biomedicine course at UCSF](http://ticr.ucsf.edu/courses/schedule/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
 - 2/19: I'm on the program committee of the [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
 - 12/18: I'm co-organizing a workshop at ICLR 2019 on [Debugging ML models](https://debug-ml-iclr2019.github.io/). Submit your paper or demo!
-- 6/18: I'm honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
+- 6/18: Honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 4/18: I'm now affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
-- 6/17: I'm grateful to receive the [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
+- 6/17: Grateful to receive the [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 - 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about it [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students)
 
 For older news, click <a class="paper" href="oldernews.html">here</a>.
