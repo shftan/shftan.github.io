@@ -8,7 +8,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 <div class="row-fluid" id="news"><h3>Older News</h3>
 </div>
 - 1/19: I gave a talk at Microsoft Research during the AI residents' lunch seminar. It was really nice to meet the AI residents!
-- 12/18: It was great to mentor a roundtable at the Women in Machine Learning workshop! My roundtable topic was "seeking funding: fellowships and grants"
+- 12/18: It was great to [mentor a roundtable](https://docs.google.com/document/d/1Xm0EIgM9ZPAaX39bbGmkQ-tzzQvWewgmuK4sI2cvgg4/edit) at the Women in Machine Learning workshop! My roundtable topic was "seeking funding: fellowships and grants"
 - 11/18: I will be giving a talk at AT&T Labs' Graduate Student Symposium
 - 10/18: I presented a poster at Microsoft Research's PhD Summit Workshop
 - 5/18: Back at UC Santa Cruz again to give guest lecture on interpretability
