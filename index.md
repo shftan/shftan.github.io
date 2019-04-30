@@ -57,15 +57,15 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
    - Preliminary version in _NeurIPS 2018 Workshop on Ethical, Social and Governance Issues in AI_ (<span class="highlight">Spotlight</span>)
-- <a class="paper" href="https://arxiv.org/abs/1810.09092">Interpretability is Harder in the Multiclass Setting: Axiomatic Interpretability for Multiclass Additive Models</a>
-   - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
-   - Under review
 - <span class="paper">Proximity Score Matching: Locally Adaptive Matching for Causal Inference</span>
    - Tan, D Miller, J Savage
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 <h4>Publications</h4>
+- <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
+   - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
+   - _KDD 2019_ (<span class="highlight">Oral</span>)
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
    - Tan, R Caruana, G Hooker, Y Lou
    - _AAAI/ACM AIES 2018_ (<span class="highlight">Oral</span>)
