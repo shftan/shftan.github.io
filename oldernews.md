@@ -7,11 +7,15 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 <div class="row-fluid" id="news"><h3>Older News</h3>
 </div>
+- 5/19: I'm on the program committee of the [ICML 2019 Human In the Loop Learning workshop](https://sites.google.com/view/hill2019/home)
+- 4/19: Received the inaugural MA alum of the year award from Columbia's Statistics Department. Beyond honored!
+- 2/19: I'm on the program committee of the [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
 - 1/19: I gave a talk at Microsoft Research during the AI residents' lunch seminar. It was really nice to meet the AI residents!
 - 12/18: It was great to mentor a roundtable at the [2018 Women in Machine Learning Workshop](https://docs.google.com/document/d/1Xm0EIgM9ZPAaX39bbGmkQ-tzzQvWewgmuK4sI2cvgg4/edit)! My roundtable topic was "seeking funding: fellowships and grants"
 - 11/18: I will be giving a talk at AT&T Labs' Graduate Student Symposium
 - 10/18: I presented a poster at Microsoft Research's PhD Summit Workshop
 - 5/18: Back at UC Santa Cruz again to give guest lecture on interpretability
+- 4/18: I'm now affiliated with Cornell's [Algorithms, Big Data, and Inequality program](http://socialsciences.cornell.edu/algorithms/)
 - 4/18: I visited Novartis Pharmaceuticals's Statistics Methodology Group for a week where I gave a talk, learned more about clinical trials, and had some very interesting brainstorming sessions around causal inference
 - 3/18: I am giving talks at UC Santa Cruz and [UCSF](https://epibiostat.ucsf.edu/events/two-projects-interpretability-and-causal-inference-auditing-black-box-modelsimpact-evaluation)
 - 2/18: I will be giving an oral talk at [AIES 2018](http://www.aies-conference.com) and participating in the doctoral consortium
