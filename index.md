@@ -31,7 +31,7 @@ I'm currently based in the SF Bay Area. You can reach me at ht395 AT cornell DOT
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
 - 4/19: I will be giving a talk at Columbia's Data Science Institute in the [Data for Good seminar series](https://events.columbia.edu/cal/event/eventView.do?href=/public/cals/MainCal/CAL-00bb9e24-69b3e39a-0169-b633b324-000010e3.ics).
-- 3/19: I'm excited to TA the new [ML for biomedicine course at UCSF](http://ticr.ucsf.edu/courses/schedule/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
+- 3/19: I'm excited to TA the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
 - 12/18: I'm co-organizing a workshop at ICLR 2019 on [Debugging ML models](https://debug-ml-iclr2019.github.io/). Submit your paper or demo!
 - 6/18: Honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 6/17: Grateful to receive the [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
