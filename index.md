@@ -51,7 +51,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review 
    - Preliminary version in _NeurIPS 2018 Machine Learning for Health Workshop_
-- <a class="paper" href="https://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity for Recidivism Predictions</a>
+- <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
    - Preliminary version in _NeurIPS 2018 Workshop on Ethical, Social and Governance Issues in AI_ (<span class="highlight">Spotlight</span>)
