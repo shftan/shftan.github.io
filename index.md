@@ -20,7 +20,7 @@ keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, co
         <div class="span8">
                 <p>I'm a PhD student at <a href="https://stat.cornell.edu/">Cornell Statistics</a>, minoring in Computer Science. I'm also currently a visiting student at <a href="https://epibiostat.ucsf.edu/">UCSF</a> and based in the SF Bay Area. Broadly, I work on interpretability of machine learning methods. I'm also interested in algorithmic fairness, healthcare applications, and causal inference.</p>
                 
-                <p>I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> are on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>
+                <p>I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> are on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. I'm vice president and on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>
                 
         </div>
 </div>
@@ -95,7 +95,12 @@ For older publications, click <a class="paper" href="olderpublications.html">her
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
 - Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
-- Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
+- Program committee:
+  - Conferences: ICML, NeurIPS
+  - Journals: TPAMI, TIST
+  - [ICML 2019 Human In the Loop Learning workshop](https://sites.google.com/view/hill2019/home)
+  - [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
+- Vice president and board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Mentor, [2018 WiML Workshop](https://wimlworkshop.org/2018/program/) mentoring roundtables
 - Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
