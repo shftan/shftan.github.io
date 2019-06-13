@@ -44,7 +44,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
 - [Data and code](https://github.com/shftan/auditblackbox) for distilling black-box risk scores paper
 
-<div class="row-fluid" id="publications"><h3>Publications & Preprints</h3>
+<div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
 - <a class="paper" href="papers/globaladditive.pdf">Learning Global Additive Explanations for Neural Nets Using Model Distillation</a>
@@ -60,7 +60,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
-<h4>Publications</h4>
+<h4>Journal and Conference Publications</h4>
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - _KDD 2019_ (<span class="highlight">Oral</span>)
@@ -75,21 +75,30 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _Epidemics_ 2018
    - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
    - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
-- <a class="paper" href="papers/aiesdc18.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
-   - _AAAI/ACM AIES 2018 Doctoral Consortium_
-- <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
-   - S Seto, Tan, G Hooker, M Wells 
-   - _NIPS 2017 Interpretability Symposium_
-- <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
-   - Tan, G Hooker, M Wells
-   - _NIPS 2016 Interpretability Workshop_
 - <a class="paper" href="http://journals.sagepub.com/doi/abs/10.1177/0003122415598534">"No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013</a>
    - I Vasi, E Walker, JS Johnson, Tan 
    - _American Sociological Review_ 2015
    - <span class="highlight">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections 
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
-
+   
+<h4>Posters and Workshop Publications</h4>
+- <a class="paper" href="https://arxiv.org/abs/1904.12991">"Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations</a>
+   - Y Zhang, K Song, Y Sun, Tan, M Udell
+   - _ICML 2019 AI for Social Good Workshop_ 
+- <span class="paper">Teaching biomedical applications of computer vision using docker containers</a>
+   - DS Lituiev, Tan, ED Gennatas, A Bishara, J H Sohn, J Kornak, D Hadley
+   - _UC Conference on AI in Biomedicine_ 
+- <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
+   - S Seto, Tan, G Hooker, M Wells 
+   - _NIPS 2017 Interpretability Symposium_
+- <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
+   - Tan, G Hooker, M Wells
+   - _NIPS 2016 Interpretability Workshop_
+- <a class="paper" href="http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf">Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching</a>
+   - Tan, G Hooker, M Wells 
+   - _NIPS 2016 Causal Inference Workshop_
+   
 For older publications, click <a class="paper" href="olderpublications.html">here</a>.
 
 <div class="row-fluid" id="service"><h3>Service</h3>
