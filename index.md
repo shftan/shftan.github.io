@@ -88,7 +88,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _ICML 2019 AI for Social Good Workshop_ 
 - <span class="paper">Teaching biomedical applications of computer vision using docker containers</span>
    - DS Lituiev, Tan, ED Gennatas, A Bishara, J H Sohn, J Kornak, D Hadley
-   - _UC Conference on AI in Biomedicine_ 
+   - _UC Conference on AI in Biomedicine 2019_ 
 - <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
    - S Seto, Tan, G Hooker, M Wells 
    - _NIPS 2017 Interpretability Symposium_
