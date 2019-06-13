@@ -5,11 +5,10 @@ description: PhD student, Cornell Statistics
 keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
-<div class="row-fluid"><h3>Older Publications & Presentations</h3>
+<div class="row-fluid"><h3>Older Publications and Presentations</h3>
 </div>
-- <a class="paper" href="http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf">Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching</a>
-   - Tan, G Hooker, M Wells 
-   - _NIPS 2016 Causal Inference Workshop_
+- <a class="paper" href="papers/aiesdc18.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
+   - _AAAI/ACM AIES 2018 Doctoral Consortium_
 - <a class="paper" href="https://www.samsi.info/wp-content/uploads/2016/08/IMSM16_report.pdf">Positive Unlabeled Learning for Anomaly Detection in Nut Allergies Protein Microarray Data</a>
    - FB Darku, S He, MA Hossain, S Ren, Tan, I Trejo-Lorenzo
    - [IMSM 2016](https://www.samsi.info/programs-and-activities/2016-2017-education-and-outreach-programs-and-workshops/2016-industrial-mathstat-modeling-workshop-for-graduate-students-july-17-27-2016/) technical report
