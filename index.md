@@ -87,7 +87,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Y Zhang, K Song, Y Sun, Tan, M Udell
    - _ICML 2019 AI for Social Good Workshop_ 
 - <span class="paper">Teaching biomedical applications of computer vision using docker containers</span>
-   - DS Lituiev, Tan, ED Gennatas, A Bishara, J H Sohn, J Kornak, D Hadley
+   - DS Lituiev, Tan, A Bishara, J H Sohn, J Kornak, D Hadley
    - _UC Conference on AI in Biomedicine 2019_ 
 - <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
    - S Seto, Tan, G Hooker, M Wells 
