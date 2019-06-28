@@ -60,7 +60,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
-<h4>Journal and Conference Publications</h4>
+<h4>Journal and Conference Papers</h4>
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - _KDD 2019_ (<span class="highlight">Oral</span>)
@@ -82,7 +82,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
-<h4>Posters and Workshop Publications</h4>
+<h4>Posters and Workshop Papers</h4>
 - <a class="paper" href="https://arxiv.org/abs/1904.12991">"Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations</a>
    - Y Zhang, K Song, Y Sun, Tan, M Udell
    - _ICML 2019 AI for Social Good Workshop_ 
@@ -99,7 +99,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, G Hooker, M Wells 
    - _NIPS 2016 Causal Inference Workshop_
    
-For older publications, click <a class="paper" href="olderpublications.html">here</a>.
+For older publications and presentations, click <a class="paper" href="olderpublications.html">here</a>.
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
