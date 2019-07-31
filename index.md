@@ -30,6 +30,7 @@ I'm currently based in the SF Bay Area. You can reach me at ht395 AT cornell DOT
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 7/19: I had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict medical conditions. 
 - 4/19: I will be giving a talk at Columbia's Data Science Institute in the [Data for Good seminar series](https://events.columbia.edu/cal/event/eventView.do?href=/public/cals/MainCal/CAL-00bb9e24-69b3e39a-0169-b633b324-000010e3.ics).
 - 3/19: I'm excited to TA the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
 - 12/18: I'm co-organizing a workshop at ICLR 2019 on [Debugging ML models](https://debug-ml-iclr2019.github.io/). Submit your paper or demo!
