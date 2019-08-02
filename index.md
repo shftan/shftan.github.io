@@ -65,6 +65,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - _KDD 2019_ (<span class="highlight">Oral</span>)
+   - [Video](https://drive.google.com/file/d/14ECmVDOfW0kOBra68ZSHoeSq8nGdePF5/view?usp=sharing)
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
    - Tan, R Caruana, G Hooker, Y Lou
    - _AAAI/ACM AIES 2018_ (<span class="highlight">Oral</span>)
