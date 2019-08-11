@@ -111,7 +111,7 @@ For older publications and presentations, click <a class="paper" href="olderpubl
   - Journals: TPAMI, TIST
   - [ICML 2019 Human In the Loop Learning workshop](https://sites.google.com/view/hill2019/home)
   - [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
-- Vice president and board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
+- Vice president and executive board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Mentor, [2018 WiML Workshop](https://wimlworkshop.org/2018/program/) mentoring roundtables
 - Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
