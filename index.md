@@ -18,7 +18,7 @@ keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, co
         </div>
         
         <div class="span8">
-                <p>I'm a PhD student at <a href="https://stat.cornell.edu/">Cornell Statistics</a>, minoring in Computer Science. I'm also currently a visiting student at <a href="https://epibiostat.ucsf.edu/">UCSF</a> and based in the SF Bay Area. Broadly, I work on interpretability of machine learning methods. I'm also interested in algorithmic fairness and causal inference. I particularly enjoy working on methods useful for healthcare and public policy.</p>
+                <p>I'm a PhD student at <a href="https://stat.cornell.edu/">Cornell Statistics</a>, minoring in Computer Science. I'm also at <a href="https://epibiostat.ucsf.edu/">UCSF</a> and based in the SF Bay Area. Broadly, I work on interpretability of machine learning methods. I'm also interested in algorithmic fairness and causal inference. I particularly enjoy working on methods useful for healthcare and public policy.</p>
                 
                 <p>I'm advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, and <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> are on my committee. Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent summer 2015 at Xerox Research (now <a href="http://www.europe.naverlabs.com">Naver Labs</a>) and summers 2017 and 2018 at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>
                 
@@ -30,9 +30,9 @@ I'm currently based in the SF Bay Area. You can reach me at ht395 AT cornell DOT
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 7/19: I had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict medical conditions. 
+- 7/19: I had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict opioid overdose and other conditions. 
 - 4/19: I will be giving a talk at Columbia's Data Science Institute in the [Data for Good seminar series](https://events.columbia.edu/cal/event/eventView.do?href=/public/cals/MainCal/CAL-00bb9e24-69b3e39a-0169-b633b324-000010e3.ics).
-- 3/19: I'm excited to TA the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
+- 3/19: I'm excited to help teach the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
 - 12/18: I'm co-organizing a workshop at ICLR 2019 on [Debugging ML models](https://debug-ml-iclr2019.github.io/). Submit your paper or demo!
 - 6/18: Honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
 - 6/17: Grateful to receive the [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
