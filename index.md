@@ -68,7 +68,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - [Video](https://drive.google.com/file/d/14ECmVDOfW0kOBra68ZSHoeSq8nGdePF5/view?usp=sharing)
 - <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
    - Tan, R Caruana, G Hooker, Y Lou
-   - _AAAI/ACM AIES 2018_ (<span class="highlight">Oral</span>)
+   - _AIES 2018_ (<span class="highlight">Oral</span>)
    - Also appeared in: _NIPS 2017 Interpretability Symposium_ (<span class="highlight">Spotlight</span>), _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ (<span class="highlight">Spotlight</span>)
    - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
    - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
