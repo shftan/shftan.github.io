@@ -48,6 +48,10 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
+- <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
+   - Tan, M Soloviev, G Hooker, M Wells
+   - Under review 
+   - Preliminary version in _NIPS 2016 Interpretability Workshop_
 - <a class="paper" href="papers/globaladditive.pdf">Learning Global Additive Explanations for Neural Nets Using Model Distillation</a>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review 
@@ -94,9 +98,6 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
    - S Seto, Tan, G Hooker, M Wells 
    - _NIPS 2017 Interpretability Symposium_
-- <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
-   - Tan, G Hooker, M Wells
-   - _NIPS 2016 Interpretability Workshop_
 - <a class="paper" href="http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf">Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching</a>
    - Tan, G Hooker, M Wells 
    - _NIPS 2016 Causal Inference Workshop_
