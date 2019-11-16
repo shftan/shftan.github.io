@@ -108,7 +108,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, G Hooker, M Wells 
    - _NIPS 2016 Causal Inference Workshop_
    
-For older publications and presentations, click <a class="paper" href="olderpublications.html">here</a>.
+For older publications and posters, click <a class="paper" href="olderpublications.html">here</a>.
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
