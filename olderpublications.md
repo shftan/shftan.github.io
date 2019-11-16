@@ -5,7 +5,7 @@ description: PhD student, Cornell Statistics
 keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
-<div class="row-fluid"><h3>Older Publications and Presentations</h3>
+<div class="row-fluid"><h3>Older Publications and Posters</h3>
 </div>
 - <a class="paper" href="papers/aiesdc18.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
    - _AAAI/ACM AIES 2018 Doctoral Consortium_
