@@ -18,7 +18,7 @@ keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, co
         </div>
         
         <div class="span8">
-                <p>I recently defended my dissertation and will be starting as a research scientist at Facebook. I received my PhD from <a href="https://stat.cornell.edu/">Cornell Statistics</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. During the later years of my PhD studies, I was based in the SF Bay Area where I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a>.</p> 
+                <p>I recently defended my dissertation and started as a research scientist at Facebook. I received my PhD from <a href="https://stat.cornell.edu/">Cornell Statistics</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. During the later years of my PhD studies, I was based in the SF Bay Area where I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a>.</p> 
                 
 <p>Broadly, I work on interpretability of machine learning methods. I'm also interested in algorithmic fairness and causal inference. I particularly enjoy working on methods useful for healthcare and public policy.</p>
   
@@ -51,10 +51,13 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
+- <a class="paper" href="papers/treeprototypes.pdf">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
    - Tan, M Soloviev, G Hooker, M Wells
    - Under review 
    - Preliminary version in _NIPS 2016 Interpretability Workshop_
+- <a class="paper" href="https://arxiv.org/abs/1911.04974">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
+   - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
+   - Under review
 - <a class="paper" href="papers/globaladditive.pdf">Learning Global Additive Explanations for Neural Nets Using Model Distillation</a>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review 
