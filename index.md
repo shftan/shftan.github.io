@@ -72,7 +72,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 <h4>Journal and Conference Papers</h4>
-- <span class="paper">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</a>
+- <span class="paper">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</span>
    - K Mallari, K Inkpen, P Johns, D Ramesh, Tan, E Kamar
    - _CHI 2020 (conditionally accepted)_
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
