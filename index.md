@@ -72,6 +72,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 <h4>Journal and Conference Papers</h4>
+- <span class="paper">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</a>
+   - K Mallari, K Inkpen, P Johns, D Ramesh, Tan, E Kamar
+   - _CHI 2020 (conditionally accepted)_
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - _KDD 2019_ (<span class="highlight">Oral</span>)
@@ -121,7 +124,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
 - Vice president and executive board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Mentor, 2019 [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
-- Mentor, [2018 WiML Workshop](https://wimlworkshop.org/2018/program/) mentoring roundtables
+- Mentor, [2018](https://wimlworkshop.org/2018/program/) and [2019](https://wimlworkshop.org/2019/program/) WiML Workshop mentoring roundtables
 - Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - Co-organizer (together with Rayid Ghani and Hadley Wickham), Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016
