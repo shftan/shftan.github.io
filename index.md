@@ -51,7 +51,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <a class="paper" href="papers/treeprototypes.pdf">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
+- <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
    - Tan, M Soloviev, G Hooker, M Wells
    - Under review 
    - Preliminary version in _NIPS 2016 Interpretability Workshop_
