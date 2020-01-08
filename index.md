@@ -55,9 +55,6 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, M Soloviev, G Hooker, M Wells
    - Under review 
    - Preliminary version in _NIPS 2016 Interpretability Workshop_
-- <a class="paper" href="https://arxiv.org/abs/1911.04974">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
-   - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
-   - Under review
 - <a class="paper" href="papers/globaladditive.pdf">Learning Global Additive Explanations for Neural Nets Using Model Distillation</a>
    - Tan, R Caruana, G Hooker, P Koch, A Gordo
    - Under review 
@@ -72,6 +69,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 <h4>Journal and Conference Papers</h4>
+- <a class="paper" href="https://arxiv.org/abs/1911.04974">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
+   - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
+   - _AISTATS 2020_
 - <span class="paper">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</span>
    - K Mallari, K Inkpen, P Johns, D Ramesh, Tan, E Kamar
    - _CHI 2020 (conditionally accepted)_
