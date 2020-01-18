@@ -74,7 +74,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _AISTATS 2020_
 - <span class="paper">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</span>
    - K Mallari, K Inkpen, P Johns, D Ramesh, Tan, E Kamar
-   - _CHI 2020 (conditionally accepted)_
+   - _CHI 2020_
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - _KDD 2019_ (<span class="highlight">Oral</span>)
