@@ -73,7 +73,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
    - _AISTATS 2020_
 - <span class="paper">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</span>
-   - K Mallari, K Inkpen, P Johns, D Ramesh, Tan, E Kamar
+   - K Mallari, K Inkpen, P Johns, Tan, D Ramesh, E Kamar
    - _CHI 2020_
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
