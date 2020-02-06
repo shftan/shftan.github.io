@@ -72,7 +72,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/1911.04974">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
    - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
    - _AISTATS 2020_
-- <span class="paper">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</span>
+- <a class="paper" href="https://arxiv.org/abs/2002.01111">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</a>
    - K Mallari, K Inkpen, P Johns, Tan, D Ramesh, E Kamar
    - _CHI 2020_
 - <a class="paper" href="https://arxiv.org/abs/1810.09092">Axiomatic Interpretability for Multiclass Additive Models</a>
