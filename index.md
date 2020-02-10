@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Sarah Tan
-description: PhD student, Cornell Statistics
-keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, computational social science
+description: Research Scientist, Facebook
+keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, causal inference, computational social science
 ---
 
 <div class="row-fluid" id="about">
@@ -22,7 +22,7 @@ keywords: Sarah Tan, Cornell, statistics, interpretability, causal inference, co
                 
 <p>Broadly, I work on interpretability of machine learning methods. I'm also interested in algorithmic fairness and causal inference. I particularly enjoy working on methods useful for healthcare and public policy.</p>
   
-<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="https://dssg.uchicago.edu">Data Science for Social Good</a> fellow. I spent two summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>  
+<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I spent two summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>  
                 
         </div>
 </div>
@@ -123,6 +123,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - [ICML 2019 Human In the Loop Learning workshop](https://sites.google.com/view/hill2019/home)
   - [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
 - Vice president and executive board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
+- Reviewer, <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Mentor, 2019 [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
 - Mentor, [2018](https://wimlworkshop.org/2018/program/) and [2019](https://wimlworkshop.org/2019/program/) WiML Workshop mentoring roundtables
 - Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018
