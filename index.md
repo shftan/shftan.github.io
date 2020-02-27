@@ -18,7 +18,7 @@ keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, caus
         </div>
         
         <div class="span8">
-                <p>I recently defended my dissertation and started as a research scientist at Facebook. I received my PhD from <a href="https://stat.cornell.edu/">Cornell Statistics</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. During the later years of my PhD studies, I was based in the SF Bay Area where I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a>.</p> 
+                <p>I am a research scientist at Facebook. I received my PhD from <a href="https://stat.cornell.edu/">Cornell Statistics</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. During the later years of my PhD studies, I was based in the SF Bay Area where I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a>.</p> 
                 
 <p>Broadly, I work on interpretability of machine learning methods. I'm also interested in algorithmic fairness and causal inference. I particularly enjoy working on methods useful for healthcare and public policy.</p>
   
@@ -118,12 +118,10 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 - Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
 - Program committee:
   - Conferences: ICML, NeurIPS, AAAI, [Conference on Health, Inference, and Learning (CHIL)](https://www.chilconference.org/)
-  - Journals: TPAMI, TIST
-  - NeurIPS 2019 workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/)
-  - [ICML 2019 Human In the Loop Learning workshop](https://sites.google.com/view/hill2019/home)
-  - [ICLR 2019 Safe ML workshop](https://sites.google.com/view/safeml-iclr2019/home)
+  - Journals: JAIR, TPAMI, TIST
+  - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/)
 - Vice president and executive board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
-- Reviewer, <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
+- Reviewer and interviewer, <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Mentor, 2019 [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
 - Mentor, [2018](https://wimlworkshop.org/2018/program/) and [2019](https://wimlworkshop.org/2019/program/) WiML Workshop mentoring roundtables
 - Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018
