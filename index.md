@@ -120,7 +120,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - Conferences: ICML, NeurIPS, AAAI, [Conference on Health, Inference, and Learning (CHIL)](https://www.chilconference.org/)
   - Journals: JAIR, TPAMI, TIST
   - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/)
-- Vice president and executive board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
+- Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Reviewer and interviewer, <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Mentor, 2019 [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
 - Mentor, [2018](https://wimlworkshop.org/2018/program/) and [2019](https://wimlworkshop.org/2019/program/) WiML Workshop mentoring roundtables
