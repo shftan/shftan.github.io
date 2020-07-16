@@ -120,7 +120,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 </div>
 - Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
 - Program committee:
-  - Conferences: ICML, NeurIPS, AAAI, [Conference on Health, Inference, and Learning (CHIL)](https://www.chilconference.org/)
+  - Conferences: NeurIPS, ICML, ICLR, AAAI, [Conference on Health, Inference, and Learning (CHIL)](https://www.chilconference.org/)
   - Journals: JAIR, TPAMI, TIST
   - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/)
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
