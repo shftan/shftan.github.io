@@ -70,7 +70,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <h4>Journal and Conference Papers</h4>
 - <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
    - Tan, M Soloviev, G Hooker, M Wells
-   - _ACM FODS 2020_ 
+   - _ACM-IMS FODS 2020_ 
    - Also appeared in: _NIPS 2016 Interpretability Workshop_
 - <a class="paper" href="https://arxiv.org/abs/1911.04974">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
    - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
