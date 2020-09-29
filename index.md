@@ -18,11 +18,9 @@ keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, caus
         </div>
         
         <div class="span8">
-                <p>I am a research scientist at Facebook. I received my PhD from <a href="https://stat.cornell.edu/">Cornell Statistics</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. During the later years of my PhD studies, I was based in the SF Bay Area where I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a>.</p> 
+                <p>I am a research scientist at Facebook, working on safe and robust experimentation and causal inference. I am also interested in interpretability and algorithmic fairness. I received my PhD from <a href="https://stat.cornell.edu/">Cornell Statistics</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. I recently co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> to bring together researchers and practitioners working in the field.</p> 
                 
-<p>Broadly, I work on causal inference and interpretability of machine learning methods. I'm also interested in algorithmic fairness. I particularly enjoy working on methods useful for healthcare and public policy.</p>
-  
-<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I spent two summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. I'm on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>  
+<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. In 2014, I was a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I spent two summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. During the later years of my PhD studies, I was based in the SF Bay Area where I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a>. I am on the board of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization.</p>  
                 
         </div>
 </div>
@@ -118,6 +116,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
+- Co-organizer (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Jaydeep Borkar), [Trustworthy ML Initiative](https://www.trustworthyml.org/)
 - Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
 - Program committee:
   - Conferences: NeurIPS, ICML, ICLR, AAAI, [Conference on Health, Inference, and Learning (CHIL)](https://www.chilconference.org/)
