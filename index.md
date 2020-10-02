@@ -121,7 +121,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 - Program committee:
   - Conferences: NeurIPS, ICML, ICLR, AAAI, [Conference on Health, Inference, and Learning (CHIL)](https://www.chilconference.org/)
   - Journals: JAIR, TPAMI, TIST, Journal of Biomedical and Health Informatics
-  - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/)
+  - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/)
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Reviewer and interviewer, <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Mentor, 2019 [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
