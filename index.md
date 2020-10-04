@@ -117,19 +117,23 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
 - Co-organizer (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Jaydeep Borkar), [Trustworthy ML Initiative](https://www.trustworthyml.org/)
-- Co-organizer (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana), ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628)
-- Program committee:
+- Area chair: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/)
+- Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AAAI, [Conference on Health, Inference, and Learning (CHIL)](https://www.chilconference.org/)
   - Journals: JAIR, TPAMI, TIST, Journal of Biomedical and Health Informatics
   - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/)
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Reviewer and interviewer, <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
-- Mentor, 2019 [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
-- Mentor, [2018](https://wimlworkshop.org/2018/program/) and [2019](https://wimlworkshop.org/2019/program/) WiML Workshop mentoring roundtables
-- Co-organizer (together with Michael Elliott and James O'Malley),  Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018
+- Mentor:
+  - Reviewing: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/) 
+  - Personal growth, project: [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
+  - Mentoring session: [2018](https://wimlworkshop.org/2018/program/) and [2019](https://wimlworkshop.org/2019/program/) WiML Workshop
+- Co-organizer:
+  - ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana) 
+  - Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018 (together with Michael Elliott and James O'Malley)  
+  - Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016 (together with Rayid Ghani and Hadley Wickham
+  - [2016 WiML Workshop](https://wimlworkshop.org/2016/) (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu). WiML Workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am most proud of the mentoring roundtables format we expanded that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together our attendees and experts in close conversation   
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
-- Co-organizer (together with Rayid Ghani and Hadley Wickham), Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016
-- Co-organizer (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu), [2016 WiML Workshop](https://wimlworkshop.org/2016/). WiML Workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am most proud of the mentoring roundtables format we expanded that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together our attendees and experts in close conversation   
 - **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized (together with Ashudeep Singh) the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
 
 <div class="row-fluid"><h3>Miscellaneous</h3>
