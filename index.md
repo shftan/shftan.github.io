@@ -70,7 +70,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, M Soloviev, G Hooker, M Wells
    - _ACM-IMS FODS 2020_ 
    - Also appeared in: _NIPS 2016 Interpretability Workshop_
-- <a class="paper" href="https://arxiv.org/abs/1911.04974">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
+- <a class="paper" href="http://proceedings.mlr.press/v108/lengerich20a/lengerich20a.pdf">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
    - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
    - _AISTATS 2020_
 - <a class="paper" href="https://arxiv.org/abs/2002.01111">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</a>
