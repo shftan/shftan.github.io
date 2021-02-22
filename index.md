@@ -44,7 +44,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
-- [Code](https://github.com/shftan/tree_ensemble_distance) for gradient boosted trees distanced proposed in [tree space prototypes paper]((https://arxiv.org/abs/1611.07115)
+- [Code](https://github.com/shftan/tree_ensemble_distance) for gradient boosted trees distanced proposed in [tree space prototypes paper](https://arxiv.org/abs/1611.07115)
 - R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
 - [Data and code](https://github.com/shftan/auditblackbox) for [distilling black-box risk scores paper](https://arxiv.org/abs/1710.06169)
 
@@ -72,6 +72,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, M Soloviev, G Hooker, M Wells
    - _ACM-IMS FODS 2020_ 
    - Also appeared in: _NIPS 2016 Interpretability Workshop_
+   - <a class="resource" href="https://github.com/shftan/tree_ensemble_distance">Code</a>
 - <a class="paper" href="http://proceedings.mlr.press/v108/lengerich20a/lengerich20a.pdf">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
    - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
    - _AISTATS 2020_
