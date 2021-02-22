@@ -30,6 +30,7 @@ I'm currently based in the SF Bay Area. You can reach me at ht395 AT cornell DOT
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 2/21: The gradient boosted tree distance we propose in [this paper](https://arxiv.org/abs/1611.07115) has gotten some interest. Here is some [code](https://github.com/shftan/tree_ensemble_distance) that illustrates how to calculate it.
 - 10/19: I gave a talk at Data & Society's Meeting on Fair ML in Health about risk scoring models in healthcare.
 - 7/19: I had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict opioid overdose and other conditions. 
 - 4/19: I will be giving a talk at Columbia's Data Science Institute in the [Data for Good seminar series](https://events.columbia.edu/cal/event/eventView.do?href=/public/cals/MainCal/CAL-00bb9e24-69b3e39a-0169-b633b324-000010e3.ics).
@@ -43,8 +44,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
+- [Code](https://github.com/shftan/tree_ensemble_distance) for gradient boosted trees distanced proposed in [tree space prototypes paper]((https://arxiv.org/abs/1611.07115)
 - R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
-- [Data and code](https://github.com/shftan/auditblackbox) for distilling black-box risk scores paper
+- [Data and code](https://github.com/shftan/auditblackbox) for [distilling black-box risk scores paper](https://arxiv.org/abs/1710.06169)
 
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
