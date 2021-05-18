@@ -64,10 +64,10 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Full version in progress. Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
+<h4>Journal and Conference Papers</h4>
 - <a class="paper" href="https://arxiv.org/abs/2006.06466">How Interpretable and Trustworthy are GAMs?</a>
    - CH Chang, Tan, B Lengerich, A Goldenberg, R Caruana
-   - Under review
-<h4>Journal and Conference Papers</h4>
+   - _KDD 2021_
 - <a class="paper" href="https://arxiv.org/abs/1611.07115">Tree Space Prototypes: Another Look at Making Tree Ensembles Interpretable</a>
    - Tan, M Soloviev, G Hooker, M Wells
    - _ACM-IMS FODS 2020_ 
