@@ -30,7 +30,6 @@ I'm currently based in the Seattle. You can reach me at ht395 AT cornell DOT edu
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 5/21: It was fun to (virtually) chat with Smith College Intro ML students about starting out in ML and ML careers.  
 - 2/21: The gradient boosted tree distance we propose in [this paper](https://arxiv.org/abs/1611.07115) has gotten some interest. Here is some [code](https://github.com/shftan/tree_ensemble_distance) that illustrates how to calculate it.
 - 10/19: I gave a talk at Data & Society's Meeting on Fair ML in Health about risk scoring models in healthcare.
 - 7/19: I had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict opioid overdose and other conditions. 
