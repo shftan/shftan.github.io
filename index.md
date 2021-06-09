@@ -30,6 +30,7 @@ I'm currently based in the Seattle. You can reach me at ht395 AT cornell DOT edu
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 6/21: I will be a discussant at the [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/). Looking forward to discussing model distillation!
 - 2/21: The gradient boosted tree distance we propose in [this paper](https://arxiv.org/abs/1611.07115) has gotten some interest. Here is some [code](https://github.com/shftan/tree_ensemble_distance) that illustrates how to calculate it.
 - 10/19: I gave a talk at Data & Society's Meeting on Fair ML in Health about risk scoring models in healthcare.
 - 7/19: I had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict opioid overdose and other conditions. 
@@ -136,7 +137,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - Reviewing: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/) 
   - Submission: [AI for Public Health Workshop](https://aiforpublichealth.github.io/)
   - Project: [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
-  - Seeking funding: [2018](https://wimlworkshop.org/2018/program/) and [2019](https://wimlworkshop.org/2019/program/) WiML Workshop
+  - Seeking funding: [2018](https://wimlworkshop.org/2018/program/), [2019](https://wimlworkshop.org/2019/program/), [2020](https://wimlworkshop.org/neurips2020/program/) WiML Workshop
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized (together with Ashudeep Singh) the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
 
