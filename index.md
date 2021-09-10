@@ -122,17 +122,18 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 </div>
 - Area chair: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/)
 - Reviewer:
-  - Conferences: NeurIPS, ICML, ICLR, FAccT, AAAI, [CHIL](https://www.chilconference.org/)
+  - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, AAAI, [CHIL](https://www.chilconference.org/)
   - Journals: JAIR, Nature, TPAMI, TIST, Journal of Biomedical and Health Informatics
   - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/), [AI for Public Health Workshop](https://aiforpublichealth.github.io/), [Human in the Loop Learning](https://www.icml-hill.com/), [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/)
   - Programs: <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Co-organizer:
-  - [Trustworthy ML Initiative](https://www.trustworthyml.org/) (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Chirag Agarwal, Jaydeep Borkar, Marta Lemanczyk)
+  - [Trustworthy ML Initiative](https://www.trustworthyml.org/) (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Chirag Agarwal, Jaydeep Borkar, Marta Lemanczyk, Haohan Wang)
   - ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana) 
   - Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018 (together with Michael Elliott and James O'Malley)  
   - Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016 (together with Rayid Ghani and Hadley Wickham
   - [2016 WiML Workshop](https://wimlworkshop.org/2016/) (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu). WiML Workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am most proud of the mentoring roundtables format we expanded that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together our attendees and experts in close conversation
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
+- Organizing committee, [AISTATS 2022](http://aistats.org/aistats2022/) Diversity & Inclusion Chair 
 - Mentor:
   - Reviewing: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/) 
   - Submission: [AI for Public Health Workshop](https://aiforpublichealth.github.io/)
