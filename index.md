@@ -52,8 +52,8 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <a class="paper" href="papers/globaladditive.pdf">Learning Global Additive Explanations for Neural Nets Using Model Distillation</a>
-   - Tan, R Caruana, G Hooker, P Koch, A Gordo
+- <a class="paper" href="papers/globaladditive.pdf">Considerations When Learning Additive Explanations for Black-Box Models</a>
+   - Tan, G Hooker, P Koch, A Gordo, R Caruana
    - Under review 
    - Preliminary version in _NeurIPS 2018 Machine Learning for Health Workshop_
 - <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
