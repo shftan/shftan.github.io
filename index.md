@@ -52,6 +52,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
+- <span class="paper">Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data</span>
+   - Z Chen, Tan, H Nori, K Inkpen, Y Lou, R Caruana
+   - Preliminary version in _ECML-PKDD International Workshop and Tutorial on eXplainable Knowledge Discovery in Data Mining 2021_ (<span class="highlight">Oral</span>)
 - <a class="paper" href="papers/globaladditive.pdf">Considerations When Learning Additive Explanations for Black-Box Models</a>
    - Tan, G Hooker, P Koch, A Gordo, R Caruana
    - Under review 
