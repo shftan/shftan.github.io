@@ -52,6 +52,12 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
+- <span class="paper">Learning Efficient Interpretable Policies on Experimental Data</span>
+   - H Wu, Tan, W Li, M Garrard, H Wang, D Jiang, A Obeng, E Bakshy
+   - Preliminary version in _Conference on Digital Experimentation 2021_ (<span class="highlight">Oral</span>)
+- <span class="paper">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</span>
+   - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
+   - Preliminary version in _Conference on Digital Experimentation 2021_ (<span class="highlight">Oral</span>)
 - <span class="paper">Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data</span>
    - Z Chen, Tan, H Nori, K Inkpen, Y Lou, R Caruana
    - Preliminary version in _ECML-PKDD International Workshop and Tutorial on eXplainable Knowledge Discovery in Data Mining 2021_ (<span class="highlight">Oral</span>)
