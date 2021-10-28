@@ -53,7 +53,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 <h4>Preprints</h4>
 </div>
-- <span class="paper">Distilling Heterogeneity: From Explanations of HeterogeneousTreatment Effect Models to Interpretable Policies</span>
+- <span class="paper">Distilling Heterogeneity: From Explanations of Heterogeneous Treatment Effect Models to Interpretable Policies</span>
    - H Wu, Tan, W Li, M Garrard, A Obeng, D Dimmery, S Singh, H Wang, D Jiang, E Bakshy
    - Under review
    - Preliminary version in _Conference on Digital Experimentation 2021_ (<span class="highlight">Oral</span>)
