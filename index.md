@@ -66,7 +66,7 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Preliminary version in _ECML-PKDD International Workshop and Tutorial on eXplainable Knowledge Discovery in Data Mining 2021_ (<span class="highlight">Oral</span>)
 - <span class="paper">Practical Policy Optimization with Personalized Experimentation</span>
    - M Garrard, H Wang, B Letham, S Singh, A Kazerouni, Tan, Z Wang, M Huang, Y Hu, C Zhou, N Zhou, E Bakshy
-   - Under review
+   - Preliminary version in _NeurIPS 2021 Causal Inference Challenges in Sequential Decision Making Workshop_
 - <a class="paper" href="https://arxiv.org/abs/1801.08640">Considerations When Learning Additive Explanations for Black-Box Models</a>
    - Tan, G Hooker, P Koch, A Gordo, R Caruana
    - Under review 
