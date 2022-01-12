@@ -153,6 +153,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - Reviewing: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/) 
   - Submission: [AI for Public Health Workshop](https://aiforpublichealth.github.io/)
   - Project: [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
+  - Research: Causal Inference research roundtable at 2021 WiML Workshop
   - Seeking funding: [2018](https://wimlworkshop.org/2018/program/), [2019](https://wimlworkshop.org/2019/program/), [2020](https://wimlworkshop.org/neurips2020/program/) WiML Workshop
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized (together with Ashudeep Singh) the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
