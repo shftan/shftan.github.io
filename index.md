@@ -135,7 +135,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
-- Area chair: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/)
+- Area chair: [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://icdm22.cse.usf.edu/), [Machine Learning for Health Workshop](https://ml4health.github.io/2020/)
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, AAAI, [CHIL](https://www.chilconference.org/)
   - Journals: TMLR, JAIR, Nature, Machine Learning, TPAMI, TIST, Journal of Biomedical and Health Informatics
