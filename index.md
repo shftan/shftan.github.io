@@ -26,7 +26,7 @@ keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, caus
 </div>
 
 <div class="row-fluid" id="contact"><h3>Contact</h3></div>
-I'm currently based in Seattle. You can reach me at ht395 AT cornell DOT edu. 
+I'm currently based in Seattle. You can reach me at shftan@gmail.com. 
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
