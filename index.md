@@ -51,7 +51,14 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
 - [Data and code](https://github.com/shftan/auditblackbox) for [distilling black-box risk scores paper](https://arxiv.org/abs/1710.06169)
 
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
+</div>
 <h4>Journal and Conference Papers</h4>
+- <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
+   - Tan, R Caruana, G Hooker, Y Lou
+   - _AIES 2018_ (<span class="highlight">Oral</span>)
+   - Also appeared in: _NIPS 2017 Interpretability Symposium_ (<span class="highlight">Spotlight</span>), _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ (<span class="highlight">Spotlight</span>)
+   - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
+   - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
 - <a class="paper" href="https://arxiv.org/abs/2111.03267">Interpretable Personalized Experimentation</a>
    - H Wu, Tan, W Li, M Garrard, A Obeng, D Dimmery, S Singh, H Wang, D Jiang, E Bakshy
    - _KDD 2022_
@@ -89,7 +96,6 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 <h4>Preprints</h4>
-</div>
 - <span class="paper">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</span>
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
    - Under review
@@ -129,9 +135,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _NIPS 2016 Causal Inference Workshop_
    
 For older publications and posters, click <a class="paper" href="olderpublications.html">here</a>.
+</div>
 
 <div class="row-fluid" id="service"><h3>Service</h3>
-</div>
 - Area chair: [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://icdm22.cse.usf.edu/), [Machine Learning for Health Workshop](https://ml4health.github.io/2020/)
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, AAAI, WWW, [CHIL](https://www.chilconference.org/)
