@@ -135,9 +135,9 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _NIPS 2016 Causal Inference Workshop_
    
 For older publications and posters, click <a class="paper" href="olderpublications.html">here</a>.
-</div>
 
 <div class="row-fluid" id="service"><h3>Service</h3>
+</div>
 - Area chair: [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://icdm22.cse.usf.edu/), [Machine Learning for Health Workshop](https://ml4health.github.io/2020/)
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, AAAI, WWW, [CHIL](https://www.chilconference.org/)
