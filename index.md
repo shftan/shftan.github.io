@@ -74,9 +74,11 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - _ACM-IMS FODS 2020_ 
    - Also appeared in: _NIPS 2016 Interpretability Workshop_
    - <a class="resource" href="https://github.com/shftan/tree_ensemble_distance">Code</a>
-- <a class="paper" href="https://arxiv.org/abs/2002.01111">Do I Look Like a Criminal? Examining the Impact of Racial Information on Human Judgement</a>
-   - K Mallari, K Inkpen, P Johns, Tan, D Ramesh, E Kamar
-   - _CHI 2020_
+- <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
+   - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
+   - _Epidemics_ 2018
+   - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
+   - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
 - <a class="paper" href="http://proceedings.mlr.press/v108/lengerich20a/lengerich20a.pdf">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
    - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
    - _AISTATS 2020_
@@ -84,11 +86,6 @@ For older news, click <a class="paper" href="oldernews.html">here</a>.
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - _KDD 2019_ (<span class="highlight">Oral</span>)
    - [Video](https://drive.google.com/file/d/14ECmVDOfW0kOBra68ZSHoeSq8nGdePF5/view?usp=sharing)
-- <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
-   - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
-   - _Epidemics_ 2018
-   - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
-   - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
 - <a class="paper" href="http://journals.sagepub.com/doi/abs/10.1177/0003122415598534">"No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013</a>
    - I Vasi, E Walker, JS Johnson, Tan 
    - _American Sociological Review_ 2015
