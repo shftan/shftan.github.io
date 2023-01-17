@@ -30,7 +30,7 @@ I'm currently based in Seattle. You can reach me at shftan@gmail.com.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html)).
+- 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
 - 6/21: I will be a discussant at the [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/past-talks). Looking forward to discussing model distillation!
 - 2/21: The gradient boosted tree distance we propose in [this paper](https://arxiv.org/abs/1611.07115) has gotten some interest. Here is some [code](https://github.com/shftan/tree_ensemble_distance) that illustrates how to calculate it.
