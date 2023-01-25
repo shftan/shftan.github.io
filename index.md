@@ -39,11 +39,11 @@ I'm currently based in Seattle. You can reach me at shftan@gmail.com.
 - 4/19: I will be giving a talk at Columbia's Data Science Institute in the [Data for Good seminar series](https://events.columbia.edu/cal/event/eventView.do?href=/public/cals/MainCal/CAL-00bb9e24-69b3e39a-0169-b633b324-000010e3.ics).
 - 3/19: I'm excited to help teach the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
 - 12/18: I'm co-organizing a workshop at ICLR 2019 on [Debugging ML models](https://debug-ml-iclr2019.github.io/). Submit your paper or demo!
-- 6/18: Honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients)
+- 6/18: Honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients).
 - 6/17: Grateful to receive the [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
-- 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about it [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students)
+- 3/17: My project evaluating the impact of later school start times in NYC public schools has received an [Engaged Cornell grant](http://engaged.cornell.edu/recipient/2017-18-engaged-graduate-student-grant-recipients/). You can read more about it [here](https://cals.cornell.edu/news/engaged-graduate-student-grants-fund-phd-students/) and [here](http://news.cornell.edu/stories/2017/04/engaged-graduate-student-grants-fund-16-phd-students).
 
-For older news, click <a class="paper" href="oldernews.html">here</a>.
+For other news, click <a class="paper" href="oldernews.html">here</a>.
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
