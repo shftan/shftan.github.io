@@ -30,7 +30,8 @@ I'm currently based in Seattle. You can reach me at shftan@gmail.com.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
+- 1/23: Have a new preprint coming out on "Error Discovery By Clustering Influence Embeddings", with Fulton Wang, Julius Adebayo, Diego Garcia-Olano, and Narine Kokhlikyan. It was fun to work on comparing influence embeddings and CLIP embeddings, and to try out different neural net architectures. We are excited to share our preprint soon!  
+- 1/23: I will be the Tutorial Chair, as well as an Area Chair, for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
 - 6/21: I will be a discussant at the [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/past-talks). Looking forward to discussing model distillation!
 - 2/21: The gradient boosted tree distance we propose in [this paper](https://arxiv.org/abs/1611.07115) has gotten some interest. Here is some [code](https://github.com/shftan/tree_ensemble_distance) that illustrates how to calculate it.
@@ -94,6 +95,9 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 <h4>Preprints</h4>
+- <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
+   - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
+   - Under review
 - <span class="paper">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</span>
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
    - Under review
