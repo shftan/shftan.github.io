@@ -18,7 +18,7 @@ keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, caus
         </div>
         
         <div class="span8">
-                <p>I am a research scientist in Responsible AI at Facebook, working on fairness and experimentation topics. I am also interested in causal inference and interpretability. I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. I am a director of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a>.</p> 
+                <p>I am a research scientist in Responsible AI at Facebook, working on fairness and experimentation topics. I am also interested in causal inference and interpretability. I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. I was recently elected president of the <a href="https://wimlworkshop.org">Women in Machine Learning</a> organization. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a>.</p> 
                 
 <p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was also a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I was fortunate to spend summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school.</p> 
                 
@@ -30,8 +30,9 @@ I'm currently based in Seattle. You can reach me at shftan@gmail.com.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 1/23: Have a new preprint coming out on "Error Discovery By Clustering Influence Embeddings", with Fulton Wang, Julius Adebayo, Diego Garcia-Olano, and Narine Kokhlikyan. It was fun to work on comparing influence embeddings and CLIP embeddings on different neural net architectures. We are excited to share our preprint soon!  
-- 1/23: I will be the Tutorial Chair, as well as an Area Chair, for [FAccT 2023](https://facctconference.org/2023/index.html).
+- 1/23: Have a new preprint coming out on "Error Discovery By Clustering Influence Embeddings", with Fulton Wang, Julius Adebayo, Diego Garcia-Olano, and Narine Kokhlikyan. It was fun to work on comparing influence embeddings and CLIP embeddings on different neural net architectures. We are excited to share our preprint soon!
+- 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
+- 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
 - 6/21: I will be a discussant at the [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/past-talks). Looking forward to discussing model distillation!
 - 2/21: The gradient boosted tree distance we propose in [this paper](https://arxiv.org/abs/1611.07115) has gotten some interest. Here is some [code](https://github.com/shftan/tree_ensemble_distance) that illustrates how to calculate it.
@@ -140,6 +141,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
+- [Women in Machine Learning](https://wimlworkshop.org) organization (WiML) President (2023 - Present), Vice President (2019 - 2020), Director (2018 - 2019, 2020 - 2023)
 - Area chair: [FAccT](https://facctconference.org/index.html), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, AAAI, WWW, [CHIL](https://www.chilconference.org/)
@@ -154,7 +156,6 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018 (together with Michael Elliott and James O'Malley)  
   - Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016 (together with Rayid Ghani and Hadley Wickham
   - [2016 WiML Workshop](https://wimlworkshop.org/2016/) (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu). WiML Workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am most proud of the mentoring roundtables format we expanded that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together our attendees and experts in close conversation
-- Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
 - Mentor:
   - Reviewing: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/) 
   - Submission: [AI for Public Health Workshop](https://aiforpublichealth.github.io/)
