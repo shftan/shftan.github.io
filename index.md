@@ -30,7 +30,7 @@ I'm currently based in Seattle. You can reach me at shftan@gmail.com.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 1/23: Have a new preprint coming out on "Error Discovery By Clustering Influence Embeddings", with Fulton Wang, Julius Adebayo, Diego Garcia-Olano, and Narine Kokhlikyan. It was fun to work on comparing influence embeddings and CLIP embeddings, and to try out different neural net architectures. We are excited to share our preprint soon!  
+- 1/23: Have a new preprint coming out on "Error Discovery By Clustering Influence Embeddings", with Fulton Wang, Julius Adebayo, Diego Garcia-Olano, and Narine Kokhlikyan. It was fun to work on comparing influence embeddings and CLIP embeddings on different neural net architectures. We are excited to share our preprint soon!  
 - 1/23: I will be the Tutorial Chair, as well as an Area Chair, for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
 - 6/21: I will be a discussant at the [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/past-talks). Looking forward to discussing model distillation!
@@ -147,6 +147,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/), [AI for Public Health Workshop](https://aiforpublichealth.github.io/), [Human in the Loop Learning](https://www.icml-hill.com/), [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/), 
   - Programs: <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Co-organizer:
+  - Tutorial Chair, [FAccT 2023](https://facctconference.org/2023/) (together with Sina Fazelpour, Angela Zhou)
   - Diversity & Inclusion Chair, [AISTATS 2022](http://aistats.org/aistats2022/) (together with Pablo Samuel Castro)
   - [Trustworthy ML Initiative](https://www.trustworthyml.org/) (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Chirag Agarwal, Jaydeep Borkar, Marta Lemanczyk, Haohan Wang)
   - ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana) 
@@ -154,7 +155,6 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016 (together with Rayid Ghani and Hadley Wickham
   - [2016 WiML Workshop](https://wimlworkshop.org/2016/) (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu). WiML Workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am most proud of the mentoring roundtables format we expanded that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together our attendees and experts in close conversation
 - Board member, [Women in Machine Learning](https://wimlworkshop.org) organization (WiML)
-- Panelist: Smith College 2021 panel on working in ML, Cornell University 2022 panel on post-PhD options
 - Mentor:
   - Reviewing: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/) 
   - Submission: [AI for Public Health Workshop](https://aiforpublichealth.github.io/)
