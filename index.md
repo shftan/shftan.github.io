@@ -99,7 +99,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
    - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
    - Under review
-- <span class="paper">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</span>
+- <a class="paper" href="https://arxiv.org/abs/2206.04907">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</a>
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
    - Under review
    - Preliminary version in _Conference on Digital Experimentation 2021_ (<span class="highlight">Oral</span>)
