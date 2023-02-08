@@ -103,7 +103,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
    - Under review
    - Preliminary version in _Conference on Digital Experimentation 2021_ (<span class="highlight">Oral</span>)
-- <span class="paper">Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data</span>
+- <a class="paper" href="https://link.springer.com/chapter/10.1007/978-3-030-93736-2_40">Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data</a>
    - Z Chen, Tan, H Nori, K Inkpen, Y Lou, R Caruana
    - Preliminary version in _ECML-PKDD International Workshop and Tutorial on eXplainable Knowledge Discovery in Data Mining 2021_ (<span class="highlight">Oral</span>)
 - <span class="paper">Practical Policy Optimization with Personalized Experimentation</span>
@@ -117,26 +117,15 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
    - Preliminary version in _NeurIPS 2018 Workshop on Ethical, Social and Governance Issues in AI_ (<span class="highlight">Spotlight</span>)
+- <a class="paper" href="https://arxiv.org/abs/1904.12991">"Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations</a>
+   - Y Zhang, K Song, Y Sun, Tan, M Udell
+   - Preliminary version in _ICML 2019 AI for Social Good Workshop_ 
 - <span class="paper">Proximity Score Matching: Locally Adaptive Matching for Causal Inference</span>
    - Tan, D Miller, J Savage
    - Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
    - Lightning talk, _Atlantic Causal Inference Conference 2015_
    - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 
-<h4>Posters and Workshop Papers</h4>
-- <a class="paper" href="https://arxiv.org/abs/1904.12991">"Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations</a>
-   - Y Zhang, K Song, Y Sun, Tan, M Udell
-   - _ICML 2019 AI for Social Good Workshop_ 
-- <span class="paper">Teaching biomedical applications of computer vision using docker containers</span>
-   - DS Lituiev, Tan, A Bishara, J H Sohn, J Kornak, D Hadley
-   - _UC Conference on AI in Biomedicine 2019_ 
-- <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
-   - S Seto, Tan, G Hooker, M Wells 
-   - _NIPS 2017 Interpretability Symposium_
-- <a class="paper" href="http://www.homepages.ucl.ac.uk/~ucgtrbd/whatif/Paper23.pdf">Probabilistic Matching: Incorporating Uncertainty to Improve Propensity Score Matching</a>
-   - Tan, G Hooker, M Wells 
-   - _NIPS 2016 Causal Inference Workshop_
-   
 For older publications and posters, click <a class="paper" href="olderpublications.html">here</a>.
 
 <div class="row-fluid" id="service"><h3>Service</h3>
