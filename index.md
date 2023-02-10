@@ -96,9 +96,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
 <h4>Preprints</h4>
-- <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
-   - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
-   - Under review
 - <a class="paper" href="https://arxiv.org/abs/2206.04907">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</a>
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
    - Under review
