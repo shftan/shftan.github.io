@@ -49,7 +49,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 
 <div class="row-fluid" id="code"><h3>Code & Data</h3>
 </div>
-- [Code](https://github.com/shftan/tree_ensemble_distance) for gradient boosted trees distanced proposed in [tree space prototypes paper](https://arxiv.org/abs/1611.07115)
+- [Code](https://github.com/shftan/tree_ensemble_distance) for gradient boosted trees distance proposed in [tree space prototypes paper](https://arxiv.org/abs/1611.07115)
 - R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
 - [Data and code](https://github.com/shftan/auditblackbox) for [distilling black-box risk scores paper](https://arxiv.org/abs/1710.06169)
 
