@@ -18,7 +18,7 @@ keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, caus
         </div>
         
         <div class="span8">
-                <p>I am a research scientist in Responsible AI, working on fairness and experimentation topics. I am also interested in causal inference, interpretability, and healthcare. I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of Women in Machine Learning (WiML). Currently, I also hold a Visiting Scientist appointment at Cornell University.</p> 
+                <p>I am a research scientist in Responsible AI, working on algorithmic fairness. I am also interested in causal inference, interpretability, and healthcare. I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of Women in Machine Learning (WiML). Currently, I also hold a Visiting Scientist appointment at Cornell University.</p> 
                 
 <p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was also a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I was fortunate to spend summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook (now Meta) after completing my PhD, and worked in Core Data Science before moving to Responsible AI.</p> 
                 
@@ -26,7 +26,7 @@ keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, caus
 </div>
 
 <div class="row-fluid" id="contact"><h3>Contact</h3></div>
-I'm currently based in Seattle. You can reach me at ht395@cornell.edu.
+I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
@@ -99,7 +99,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - <span class="highlight">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections 
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
-   - 
+   
 <h4>Preprints</h4>
 - <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
    - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
