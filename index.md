@@ -18,19 +18,19 @@ keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, caus
         </div>
         
         <div class="span8">
-                <p>I am a research scientist in Responsible AI, working on fairness and experimentation topics. I am also interested in causal inference and interpretability. I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a>.</p> 
+                <p>I am a research scientist in Responsible AI, working on fairness and experimentation topics. I am also interested in causal inference, interpretability, and healthcare. I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of Women in Machine Learning (WiML). Currently, I also hold a Visiting Scientist appointment at Cornell University.</p> 
                 
-<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was also a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I was fortunate to spend summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school.</p> 
+<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was also a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I was fortunate to spend summers at Microsoft Research, working with <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a>, <a href="https://www.microsoft.com/en-us/research/people/kori/">Kori Inkpen</a>, and <a href="https://www.microsoft.com/en-us/research/people/eckamar/">Ece Kamar</a>. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook (now Meta) after completing my PhD, and worked in Core Data Science before moving to Responsible AI.</p> 
                 
         </div>
 </div>
 
 <div class="row-fluid" id="contact"><h3>Contact</h3></div>
-I'm currently based in Seattle. You can reach me at shftan@gmail.com. 
+I'm currently based in Seattle. You can reach me at ht395@cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 1/23: Have a new preprint coming out on "Error Discovery By Clustering Influence Embeddings", with Fulton Wang, Julius Adebayo, Diego Garcia-Olano, and Narine Kokhlikyan. It was fun to work on comparing influence embeddings and CLIP embeddings on different neural net architectures. We are excited to share our preprint soon!
+- 1/23: Starting a Visiting Scientist appointment at Cornell University.
 - 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
@@ -56,12 +56,10 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
 <h4>Journal and Conference Papers</h4>
-- <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
-   - Tan, R Caruana, G Hooker, Y Lou
-   - _AIES 2018_ (<span class="highlight">Oral</span>)
-   - Also appeared in: _NIPS 2017 Interpretability Symposium_ (<span class="highlight">Spotlight</span>), _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ (<span class="highlight">Spotlight</span>)
-   - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
-   - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
+- <a class="paper" href="https://arxiv.org/abs/1801.08640">Considerations When Learning Additive Explanations for Black-Box Models</a>
+   - Tan, G Hooker, P Koch, A Gordo, R Caruana
+   - _Machine Learning_ 2023 
+   - Also appeared in: _NeurIPS 2018 Machine Learning for Health Workshop_
 - <a class="paper" href="https://arxiv.org/abs/2111.03267">Interpretable Personalized Experimentation</a>
    - H Wu, Tan, W Li, M Garrard, A Obeng, D Dimmery, S Singh, H Wang, D Jiang, E Bakshy
    - _KDD 2022_
@@ -77,11 +75,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - _ACM-IMS FODS 2020_ 
    - Also appeared in: _NIPS 2016 Interpretability Workshop_
    - <a class="resource" href="https://github.com/shftan/tree_ensemble_distance">Code</a>
-- <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
-   - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
-   - _Epidemics_ 2018
-   - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
-   - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
 - <a class="paper" href="http://proceedings.mlr.press/v108/lengerich20a/lengerich20a.pdf">Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models</a>
    - B Lengerich, Tan, CH Chang, G Hooker, R Caruana
    - _AISTATS 2020_
@@ -89,13 +82,29 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - X Zhang, Tan, P Koch, Y Lou, U Chajewska, R Caruana
    - _KDD 2019_ (<span class="highlight">Oral</span>)
    - [Video](https://drive.google.com/file/d/14ECmVDOfW0kOBra68ZSHoeSq8nGdePF5/view?usp=sharing)
+- <a class="paper" href="https://arxiv.org/abs/1710.06169">Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation</a>
+   - Tan, R Caruana, G Hooker, Y Lou
+   - _AIES 2018_ (<span class="highlight">Oral</span>)
+   - Also appeared in: _NIPS 2017 Interpretability Symposium_ (<span class="highlight">Spotlight</span>), _NIPS 2017 Transparent Machine Learning in Safety Critical Environments Workshop_ (<span class="highlight">Spotlight</span>)
+   - Media coverage: [MIT Technology Review](https://www.technologyreview.com/s/609338/new-research-aims-to-solve-the-problem-of-ai-bias-in-black-box-algorithms/), [Politico](https://www.politico.com/agenda/story/2018/02/07/algorithmic-bias-software-recommendations-000631), [Futurism](https://futurism.com/ai-bias-black-box/), [WorkFlow](https://www.servicenow.com/workflow/algorithmic-audit.html) 
+   - <a class="resource" href="https://github.com/shftan/auditblackbox">Code and data</a>
+- <a class="paper" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755">A Bayesian Evidence Synthesis Approach to Estimate Disease Prevalence in Hard-To-Reach Populations: Hepatitis C in New York City</a>
+   - Tan, S Makela, D Heller, K Konty, S Balter, T Zheng, J Stark
+   - _Epidemics_ 2018
+   - Presented to NYC Health Commissioner. Talk at [NDRI](http://www.ndri.org) 
+   - <a class="resource" href="https://www.sciencedirect.com/science/article/pii/S1755436516300755?via%3Dihub#sec0190">Code</a>
 - <a class="paper" href="http://journals.sagepub.com/doi/abs/10.1177/0003122415598534">"No Fracking Way!" Documentary Film, Discursive Opportunity, and Local Opposition against Hydraulic Fracturing in the United States, 2010 to 2013</a>
    - I Vasi, E Walker, JS Johnson, Tan 
    - _American Sociological Review_ 2015
    - <span class="highlight">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections 
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
+   - 
 <h4>Preprints</h4>
+- <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
+   - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
+   - Under review
+   - Preliminary version in _ICLR 2023 Pitfalls of limited data and computation for Trustworthy ML Workshop_ (<span class="highlight">Oral</span>)
 - <a class="paper" href="https://arxiv.org/abs/2206.04907">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</a>
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
    - Under review
@@ -106,10 +115,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">Practical Policy Optimization with Personalized Experimentation</span>
    - M Garrard, H Wang, B Letham, S Singh, A Kazerouni, Tan, Z Wang, M Huang, Y Hu, C Zhou, N Zhou, E Bakshy
    - Preliminary version in _NeurIPS 2021 Causal Inference Challenges in Sequential Decision Making Workshop_
-- <a class="paper" href="https://arxiv.org/abs/1801.08640">Considerations When Learning Additive Explanations for Black-Box Models</a>
-   - Tan, G Hooker, P Koch, A Gordo, R Caruana
-   - Under review 
-   - Preliminary version in _NeurIPS 2018 Machine Learning for Health Workshop_
 - <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
@@ -130,7 +135,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 - [Women in Machine Learning](https://wimlworkshop.org) organization (WiML) President (2023 - Present), Vice President (2019 - 2020), Director (2018 - 2019, 2020 - 2023)
 - Area chair: [FAccT](https://facctconference.org/index.html), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
 - Reviewer:
-  - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, KDD, AAAI, WWW, [CHIL](https://www.chilconference.org/)
+  - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, AIES, KDD, AAAI, WWW, [CHIL](https://www.chilconference.org/)
   - Journals: TMLR, JAIR, Nature, Machine Learning, TPAMI, TIST, Journal of Biomedical and Health Informatics
   - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/), [AI for Public Health Workshop](https://aiforpublichealth.github.io/), [Human in the Loop Learning](https://www.icml-hill.com/), [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/), 
   - Programs: <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
