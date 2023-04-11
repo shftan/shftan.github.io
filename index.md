@@ -56,6 +56,9 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
 <h4>Journal and Conference Papers</h4>
+- <span class="paper">Missing Values and Imputation in Healthcare Data: Can Interpretable Machine Learning Help?</span>
+   - Z Chen, Tan, U Chajewska, C Rudin, R Caruana
+   - _CHIL 2023
 - <a class="paper" href="https://arxiv.org/abs/1801.08640">Considerations When Learning Additive Explanations for Black-Box Models</a>
    - Tan, G Hooker, P Koch, A Gordo, R Caruana
    - _Machine Learning_ 2023 
