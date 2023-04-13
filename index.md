@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Sarah Tan
-description: Research Scientist, Facebook
-keywords: Sarah Tan, Facebook, Cornell, UCSF, statistics, interpretability, causal inference, computational social science
+description: Research Scientist, Responsible AI
+keywords: Sarah Tan, responsible AI, Cornell, machine learning, artificial intelligence, statistics
 ---
 
 <div class="row-fluid" id="about">
