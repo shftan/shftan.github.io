@@ -115,7 +115,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://link.springer.com/chapter/10.1007/978-3-030-93736-2_40">Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data</a>
    - Z Chen, Tan, H Nori, K Inkpen, Y Lou, R Caruana
    - Preliminary version in _ECML-PKDD International Workshop and Tutorial on eXplainable Knowledge Discovery in Data Mining 2021_ (<span class="highlight">Oral</span>)
-- <span class="paper">Practical Policy Optimization with Personalized Experimentation</span>
+- <a class="paper" href="https://arxiv.org/abs/2303.17648">Practical Policy Optimization with Personalized Experimentation</a>
    - M Garrard, H Wang, B Letham, S Singh, A Kazerouni, Tan, Z Wang, M Huang, Y Hu, C Zhou, N Zhou, E Bakshy
    - Preliminary version in _NeurIPS 2021 Causal Inference Challenges in Sequential Decision Making Workshop_
 - <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
