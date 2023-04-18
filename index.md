@@ -32,7 +32,6 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 1/23: Starting a Visiting Scientist appointment at Cornell University.
 - 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
