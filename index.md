@@ -32,6 +32,8 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 9/23: I was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
+- 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
 - 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
@@ -57,6 +59,10 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
 <h4>Journal and Conference Papers</h4>
+- <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
+   - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
+   - _NeurIPS 2023_
+   - Also appeared in: _ICLR 2023 Pitfalls of limited data and computation for Trustworthy ML Workshop_ (<span class="highlight">Oral</span>)
 - <span class="paper">Missing Values and Imputation in Healthcare Data: Can Interpretable Machine Learning Help?</span>
    - Z Chen, Tan, U Chajewska, C Rudin, R Caruana
    - _CHIL 2023_
@@ -105,10 +111,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
 <h4>Preprints</h4>
-- <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
-   - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
-   - Under review
-   - Preliminary version in _ICLR 2023 Pitfalls of limited data and computation for Trustworthy ML Workshop_ (<span class="highlight">Oral</span>)
 - <a class="paper" href="https://arxiv.org/abs/2206.04907">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</a>
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
    - Under review
@@ -144,6 +146,7 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
   - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/), [AI for Public Health Workshop](https://aiforpublichealth.github.io/), [Human in the Loop Learning](https://www.icml-hill.com/), [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/), 
   - Programs: <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Co-organizer:
+  - NeurIPS 2023 Workshop ["Regulatable ML"](https://regulatableml.github.io/) (together with Himabindu Lakkaraju, Jiaqi Ma, Chirag Agarwal)
   - Tutorial Chair, [FAccT 2023](https://facctconference.org/2023/) (together with Sina Fazelpour, Angela Zhou)
   - Diversity & Inclusion Chair, [AISTATS 2022](http://aistats.org/aistats2022/) (together with Pablo Samuel Castro)
   - [Trustworthy ML Initiative](https://www.trustworthyml.org/) (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Chirag Agarwal, Jaydeep Borkar, Marta Lemanczyk, Haohan Wang)
