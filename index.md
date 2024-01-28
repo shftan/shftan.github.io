@@ -54,11 +54,11 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
 <h4>Journal and Conference Papers</h4>
-- <span class="paper">Error Discovery By Clustering Influence Embeddings</span>
+- <a class="paper" href="https://arxiv.org/abs/2312.04712">Error Discovery By Clustering Influence Embeddings</a>
    - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
    - _NeurIPS 2023_
    - Also appeared in: _ICLR 2023 Pitfalls of limited data and computation for Trustworthy ML Workshop_ (<span class="highlight">Oral</span>)
-- <span class="paper">Missing Values and Imputation in Healthcare Data: Can Interpretable Machine Learning Help?</span>
+- <a class="paper" href="https://arxiv.org/abs/2304.11749">Missing Values and Imputation in Healthcare Data: Can Interpretable Machine Learning Help?</a>
    - Z Chen, Tan, U Chajewska, C Rudin, R Caruana
    - _CHIL 2023_
 - <a class="paper" href="https://arxiv.org/abs/1801.08640">Considerations When Learning Additive Explanations for Black-Box Models</a>
