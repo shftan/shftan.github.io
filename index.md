@@ -2,7 +2,7 @@
 layout: frontpage
 title: Sarah Tan
 description: Research Scientist, Responsible AI
-keywords: Sarah Tan, responsible AI, Cornell, machine learning, artificial intelligence, statistics
+keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, statistics
 ---
 
 <div class="row-fluid" id="about">
@@ -32,6 +32,7 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 3/24: I gave a guest lecture on Ethics in Computer Vision at Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
 - 9/23: I was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
 - 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
