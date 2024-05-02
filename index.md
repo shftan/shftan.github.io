@@ -32,6 +32,7 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 5/24: I did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
 - 3/24: I gave a guest lecture on Ethics in Computer Vision at Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
 - 9/23: I was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
