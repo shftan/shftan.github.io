@@ -32,16 +32,19 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 5/24: I did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
-- 3/24: I gave a guest lecture on Ethics in Computer Vision at Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
-- 9/23: I was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
+- 6/24: Was a panelist on Exploring AI Career Pathways for Girls Who Code's Summer Immersion Program for high school students.
+- 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
+- 3/24: Gave a guest lecture on Ethics in Computer Vision at Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
+- 12/23: Gave President's Remarks and mentored a roundtable on Trustworthy ML at the 2023 Women in Machine Learning Workshop @ NeurIPS.
+- 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
+- 7/23: Gave President's Remarks at the 2023 Women in Machine Learning Un-Workshop @ ICML.
 - 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
-- 10/19: I gave a talk at Data & Society's Meeting on Fair ML in Health about risk scoring models in healthcare.
-- 7/19: I had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict opioid overdose and other conditions. 
-- 3/19: I'm excited to help teach the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
+- 10/19: Gave a talk at Data & Society's Meeting on Fair ML in Health about risk scoring models in healthcare.
+- 7/19: Had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict opioid overdose and other conditions. 
+- 3/19: Excited to help teach the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
 - 6/18: Honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients).
 - 6/17: Grateful to receive the [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 
