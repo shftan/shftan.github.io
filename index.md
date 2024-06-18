@@ -32,7 +32,7 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 6/24: Was a panelist on Exploring AI Career Pathways for Girls Who Code's Summer Immersion Program for high school students.
+- 6/24: Was a panelist on "Exploring AI Career Pathways" for Girls Who Code's high school summer immersion program.
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
 - 3/24: Gave a guest lecture on Ethics in Computer Vision at Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
 - 12/23: Gave President's Remarks and mentored a roundtable on Trustworthy ML at the 2023 Women in Machine Learning Workshop @ NeurIPS.
