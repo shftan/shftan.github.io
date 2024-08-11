@@ -18,7 +18,7 @@ keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, 
         </div>
         
         <div class="span8">
-                <p>I am a researcher interested in algorithmic fairness, causal inference, interpretability, and healthcare. Currently, I am a Director in Responsible AI at Salesforce. I also hold a Visiting Scientist appointment at Cornell University. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of Women in Machine Learning (WiML).</p>   
+                <p>I am a researcher interested in algorithmic fairness, causal inference, interpretability, and healthcare. Currently, I am a Director in Responsible AI at Salesforce. I also hold a Visiting Scientist appointment at Cornell University. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of <a href="https://www.wiml.org/">Women in Machine Learning (WiML)</a>.</p>   
                   
                   <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee.</p> 
                 
