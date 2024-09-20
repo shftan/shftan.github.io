@@ -32,13 +32,13 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 9/24: Gave a guest lecture in USC's ENG 4999 "Ethics in AI Systems" class.
+- 9/24: Gave a guest lecture for the University of Southern California's ENG 499 "Ethics in Enginerring Design of AI Systems" class.
 - 9/24: Was a panelist on NISS' 2024 [Industry Career Fair](https://www.niss.org/events/niss-industry-career-fair-2024). 
 - 8/24: Co-organizing 2nd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2024. Submit your paper!
 - 7/24: Gave President’s Remarks and mentored a roundtable on interpretability at the 2024 Women in Machine Learning Symposium @ ICML.
 - 6/24: Was a panelist on "Exploring AI Career Pathways" for Girls Who Code's high school summer immersion program.
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
-- 3/24: Gave a guest lecture on Ethics in Computer Vision at Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
+- 3/24: Gave a guest lecture for Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
 - 12/23: Gave President's Remarks and mentored a roundtable on Trustworthy ML at the 2023 Women in Machine Learning Workshop @ NeurIPS.
 - 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
