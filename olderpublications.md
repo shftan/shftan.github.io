@@ -1,12 +1,24 @@
 ---
 layout: frontpage
 title: Sarah Tan
-description: PhD student, Cornell Statistics
+description: Research Scientist, Responsible AI
 keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
 <div class="row-fluid"><h3>Older Publications and Posters</h3>
 </div>
+- <a class="paper" href="https://arxiv.org/abs/2206.04907">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</a>
+   - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
+   - _Conference on Digital Experimentation 2021_ (<span class="highlight">Oral</span>)
+- <a class="paper" href="https://link.springer.com/chapter/10.1007/978-3-030-93736-2_40">Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data</a>
+   - Z Chen, Tan, H Nori, K Inkpen, Y Lou, R Caruana
+   - _ECML-PKDD International Workshop and Tutorial on eXplainable Knowledge Discovery in Data Mining 2021_ (<span class="highlight">Oral</span>)
+- <a class="paper" href="https://arxiv.org/abs/2303.17648">Practical Policy Optimization with Personalized Experimentation</a>
+   - M Garrard, H Wang, B Letham, S Singh, A Kazerouni, Tan, Z Wang, M Huang, Y Hu, C Zhou, N Zhou, E Bakshy
+   - _NeurIPS 2021 Causal Inference Challenges in Sequential Decision Making Workshop_
+- <a class="paper" href="https://arxiv.org/abs/1904.12991">"Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations</a>
+   - Y Zhang, K Song, Y Sun, Tan, M Udell
+   - _ICML 2019 AI for Social Good Workshop_ 
 - <span class="paper">Teaching biomedical applications of computer vision using docker containers</span>
    - DS Lituiev, Tan, A Bishara, J H Sohn, J Kornak, D Hadley
    - _UC Conference on AI in Biomedicine 2019_ 
@@ -22,6 +34,11 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
    - FB Darku, S He, MA Hossain, S Ren, Tan, I Trejo-Lorenzo
    - [IMSM 2016](https://www.samsi.info/programs-and-activities/2016-2017-education-and-outreach-programs-and-workshops/2016-industrial-mathstat-modeling-workshop-for-graduate-students-july-17-27-2016/) technical report
    - Press releases: [SAMSI](https://www.samsi.info/imsm-2016-prepares-graduate-students-real-world-research/), [Rho, Inc](http://resources.rhoworld.com/blog/rho-participates-in-innovative-graduate-student-workshop-for-6th-consecutive-year)
+- <span class="paper">Proximity Score Matching: Locally Adaptive Matching for Causal Inference</span>
+   - Tan, D Miller, J Savage
+   - _NIPS 2015 Machine Learning in Healthcare Workshop_
+   - Lightning talk, _Atlantic Causal Inference Conference 2015_
+   - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 - <a class="paper" href="papers/nyas15.pdf">Using Ranking Support Vector Machines for Group Recommendations</a>
    - Tan, R Rotabi, HGT Nguyen
    - <a href="papers/nyas15poster.pdf">Poster</a> at _New York Academy of Sciences Machine Learning Symposium 2015_
