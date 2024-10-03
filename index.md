@@ -34,23 +34,16 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 </div>
 - 9/24: Gave a guest lecture for the University of Southern California's ENG 499 "Ethics in Enginerring Design of AI Systems" class.
 - 9/24: Was a panelist on NISS' 2024 [Industry Career Fair](https://www.niss.org/events/niss-industry-career-fair-2024). 
+- 8/24: Representing Salesforce on a US AI Safety Institute task force.
 - 8/24: Co-organizing 2nd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2024. Submit your paper!
 - 7/24: Gave President’s Remarks and mentored a roundtable on interpretability at the 2024 Women in Machine Learning Symposium @ ICML.
 - 6/24: Was a panelist on "Exploring AI Career Pathways" for Girls Who Code's high school summer immersion program.
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
 - 3/24: Gave a guest lecture for Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
-- 12/23: Gave President's Remarks and mentored a roundtable on Trustworthy ML at the 2023 Women in Machine Learning Workshop @ NeurIPS.
 - 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
-- 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
-- 7/23: Gave President's Remarks at the 2023 Women in Machine Learning Un-Workshop @ ICML.
 - 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
-- 10/19: Gave a talk at Data & Society's Meeting on Fair ML in Health about risk scoring models in healthcare.
-- 7/19: Had a blast helping out with [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)! I presented on dataset bias and helped mentor a project team using electronic medical records to predict opioid overdose and other conditions. 
-- 3/19: Excited to help teach the new [ML for biomedicine course at UCSF](https://ticr.ucsf.edu/courses/machine_learning.html). This is perhaps the first official ML course at UCSF and I'm looking forward to teaching again!
-- 6/18: Honored to receive a [Microsoft Research Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/#!grant-recipients).
-- 6/17: Grateful to receive the [American Statistical Association Wray Jackson Smith Award](http://stattrak.amstat.org/2017/07/01/smithscholarship/)
 
 For other news, click <a class="paper" href="oldernews.html">here</a>.
 
@@ -115,30 +108,15 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
 <h4>Preprints</h4>
-- <a class="paper" href="https://arxiv.org/abs/2206.04907">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</a>
-   - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
+- <a class="paper" href="https://arxiv.org/abs/2406.10290">MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases</a>
+   - R Murthy, L Yang, J Tan, T Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, Tan, J Zhang, Z Liu, S Kokane, Z Liu, M Zhu, H Wang, C Xiong, S Savarese
    - Under review
-   - Preliminary version in _Conference on Digital Experimentation 2021_ (<span class="highlight">Oral</span>)
-- <a class="paper" href="https://link.springer.com/chapter/10.1007/978-3-030-93736-2_40">Using Explainable Boosting Machines (EBMs) to Detect Common Flaws in Data</a>
-   - Z Chen, Tan, H Nori, K Inkpen, Y Lou, R Caruana
-   - Preliminary version in _ECML-PKDD International Workshop and Tutorial on eXplainable Knowledge Discovery in Data Mining 2021_ (<span class="highlight">Oral</span>)
-- <a class="paper" href="https://arxiv.org/abs/2303.17648">Practical Policy Optimization with Personalized Experimentation</a>
-   - M Garrard, H Wang, B Letham, S Singh, A Kazerouni, Tan, Z Wang, M Huang, Y Hu, C Zhou, N Zhou, E Bakshy
-   - Preliminary version in _NeurIPS 2021 Causal Inference Challenges in Sequential Decision Making Workshop_
 - <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
    - Under review
    - Preliminary version in _NeurIPS 2018 Workshop on Ethical, Social and Governance Issues in AI_ (<span class="highlight">Spotlight</span>)
-- <a class="paper" href="https://arxiv.org/abs/1904.12991">"Why Should You Trust My Explanation?" Understanding Uncertainty in LIME Explanations</a>
-   - Y Zhang, K Song, Y Sun, Tan, M Udell
-   - Preliminary version in _ICML 2019 AI for Social Good Workshop_ 
-- <span class="paper">Proximity Score Matching: Locally Adaptive Matching for Causal Inference</span>
-   - Tan, D Miller, J Savage
-   - Preliminary version in _NIPS 2015 Machine Learning in Healthcare Workshop_
-   - Lightning talk, _Atlantic Causal Inference Conference 2015_
-   - <span class="highlight">1 of 3 Best Student Paper Awards</span> from American Statistical Association's SSPA section
 
-For older publications and posters, click <a class="paper" href="olderpublications.html">here</a>.
+For older publications and workshop papers, click <a class="paper" href="olderpublications.html">here</a>.
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
@@ -147,10 +125,10 @@ For older publications and posters, click <a class="paper" href="olderpublicatio
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, FAccT, AIES, KDD, AAAI, WWW, HCOMP
   - Journals: TMLR, JAIR, Nature, Machine Learning, TPAMI, TIST, Journal of Biomedical and Health Informatics, IEEE Transactions on Emerging Topics in Computational Intelligence
-  - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/), [AI for Public Health Workshop](https://aiforpublichealth.github.io/), [Human in the Loop Learning](https://www.icml-hill.com/), [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/), 
+  - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/), [AI for Public Health Workshop](https://aiforpublichealth.github.io/), [Human in the Loop Learning](https://www.icml-hill.com/), [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/) 
   - Programs: <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
 - Co-organizer:
-  - NeurIPS 2023 Workshop ["Regulatable ML"](https://regulatableml.github.io/) (together with Himabindu Lakkaraju, Jiaqi Ma, Chirag Agarwal)
+  - NeurIPS 2023 and 2024 Workshops ["Regulatable ML"](https://regulatableml.github.io/) (together with Himabindu Lakkaraju, Jiaqi Ma, Chirag Agarwal)
   - Tutorial Chair, [FAccT 2023](https://facctconference.org/2023/) (together with Sina Fazelpour, Angela Zhou)
   - Diversity & Inclusion Chair, [AISTATS 2022](http://aistats.org/aistats2022/) (together with Pablo Samuel Castro)
   - [Trustworthy ML Initiative](https://www.trustworthyml.org/) (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Chirag Agarwal, Jaydeep Borkar, Marta Lemanczyk, Haohan Wang)
