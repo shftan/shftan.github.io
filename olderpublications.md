@@ -5,7 +5,7 @@ description: Research Scientist, Responsible AI
 keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 ---
 
-<div class="row-fluid"><h3>Older Publications and Posters</h3>
+<div class="row-fluid"><h3>Older Publications and Workshop Papers</h3>
 </div>
 - <a class="paper" href="https://arxiv.org/abs/2206.04907">Efficient Heterogeneous Treatment Effect Estimation With Multiple Experiments and Multiple Outcomes</a>
    - L Yao, C Lo, I Nir, Tan, A Evnine, A Lerer, A Peysakhovich
