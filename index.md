@@ -32,6 +32,7 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 10/24: Gave a guest lecture for the University of Southern California's BUAD 311 "Operations Management" class.
 - 9/24: Gave a guest lecture for the University of Southern California's ENG 499 "Ethics in Enginerring Design of AI Systems" class.
 - 9/24: Was a panelist on NISS' 2024 [Industry Career Fair](https://www.niss.org/events/niss-industry-career-fair-2024). 
 - 8/24: Representing Salesforce on a US AI Safety Institute task force.
