@@ -7,6 +7,12 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 
 <div class="row-fluid" id="news"><h3>Older News</h3>
 </div>
+- 12/24: Gave President's Remarks and mentored a roundtable on Non-Traditional Paths to ML at the 2024 Women in Machine Learning Workshop @ NeurIPS.
+- 10/24: Gave a guest lecture for the University of Southern California's BUAD 311 "Operations Management" class.
+- 9/24: Was a panelist on NISS' 2024 [Industry Career Fair](https://www.niss.org/events/niss-industry-career-fair-2024). 
+- 7/24: Gave President’s Remarks and mentored a roundtable on interpretability at the 2024 Women in Machine Learning Symposium @ ICML.
+- 6/24: Was a panelist on "Exploring AI Career Pathways" for Girls Who Code's high school summer immersion program.
+- 3/24: Gave a guest lecture for Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
 - 12/23: Gave President's Remarks and mentored a roundtable on Trustworthy ML at the 2023 Women in Machine Learning Workshop @ NeurIPS.
 - 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
 - 7/23: Gave President's Remarks at the 2023 Women in Machine Learning Un-Workshop @ ICML.
