@@ -18,7 +18,7 @@ keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, 
         </div>
         
         <div class="span8">
-                <p>I am a researcher interested in algorithmic fairness, causal inference, interpretability, and healthcare. Currently, I am a Director in Responsible AI at Salesforce. I also hold a Visiting Scientist appointment at Cornell University. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of <a href="https://www.wiml.org/">Women in Machine Learning (WiML)</a>.</p>   
+                <p>I am a researcher interested in AI safety, causal inference, interpretability, and healthcare. Currently, I am a Director in Responsible AI at Salesforce. I also hold a Visiting Scientist appointment at Cornell University. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of <a href="https://www.wiml.org/">Women in Machine Learning (WiML)</a>.</p>   
                   
                   <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee.</p> 
                 
@@ -32,15 +32,10 @@ I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
-- 10/24: Gave a guest lecture for the University of Southern California's BUAD 311 "Operations Management" class.
 - 9/24: Gave a guest lecture for the University of Southern California's ENG 499 "Ethics in Enginerring Design of AI Systems" class.
-- 9/24: Was a panelist on NISS' 2024 [Industry Career Fair](https://www.niss.org/events/niss-industry-career-fair-2024). 
 - 8/24: Representing Salesforce on a US AI Safety Institute task force.
 - 8/24: Co-organizing 2nd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2024. Submit your paper!
-- 7/24: Gave President’s Remarks and mentored a roundtable on interpretability at the 2024 Women in Machine Learning Symposium @ ICML.
-- 6/24: Was a panelist on "Exploring AI Career Pathways" for Girls Who Code's high school summer immersion program.
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
-- 3/24: Gave a guest lecture for Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
 - 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
@@ -109,8 +104,15 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
 <h4>Preprints</h4>
+- <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
+   - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
+   - Under review
+   - Preliminary version in _SoCal NLP Symposium 2024_
 - <a class="paper" href="https://arxiv.org/abs/2406.10290">MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases</a>
    - R Murthy, L Yang, J Tan, T Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, Tan, J Zhang, Z Liu, S Kokane, Z Liu, M Zhu, H Wang, C Xiong, S Savarese
+   - Under review
+- <a class="paper" href="https://arxiv.org/abs/2410.14180">XForecast: Evaluating Natural Language Explanations for Time Series Forecasting</a>
+   - T Aksu, C Liu, A Saha, Tan, C Xiong, D Sahoo
    - Under review
 - <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
    - Tan, J Adebayo, K Inkpen, E Kamar
@@ -122,7 +124,7 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
 - [Women in Machine Learning](https://wimlworkshop.org) organization (WiML) President (2023 - Present), Vice President (2019 - 2020), Director (2018 - 2019, 2020 - 2023)
-- Area chair: [FAccT](https://facctconference.org/index.html), [CHIL](https://www.chilconference.org/), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
+- Area chair: [ICML](https://icml.cc/), [FAccT](https://facctconference.org/index.html), [CHIL](https://www.chilconference.org/), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, AIES, KDD, AAAI, WWW, HCOMP
   - Journals: JMLR, TMLR, JAIR, Nature, Machine Learning, TPAMI, TIST, Journal of Biomedical and Health Informatics, IEEE Transactions on Emerging Topics in Computational Intelligence
