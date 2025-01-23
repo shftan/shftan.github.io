@@ -52,6 +52,10 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
 <h4>Journal and Conference Papers</h4>
+- <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
+   - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
+   - _NAACL 2025_
+   - Preliminary version in _SoCal NLP Symposium 2024_
 - <a class="paper" href="https://arxiv.org/abs/2312.04712">Error Discovery By Clustering Influence Embeddings</a>
    - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
    - _NeurIPS 2023_
@@ -104,10 +108,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
 <h4>Preprints</h4>
-- <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
-   - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
-   - Under review
-   - Preliminary version in _SoCal NLP Symposium 2024_
 - <a class="paper" href="https://arxiv.org/abs/2406.10290">MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases</a>
    - R Murthy, L Yang, J Tan, T Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, Tan, J Zhang, Z Liu, S Kokane, Z Liu, M Zhu, H Wang, C Xiong, S Savarese
    - Under review
