@@ -28,7 +28,7 @@ keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, 
 </div>
 
 <div class="row-fluid" id="contact"><h3>Contact</h3></div>
-I'm currently based in Seattle. You can reach me at ht395 AT cornell.edu.
+You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
