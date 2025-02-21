@@ -124,7 +124,7 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
 - [Women in Machine Learning](https://wimlworkshop.org) organization (WiML) President (2023 - Present), Vice President (2019 - 2020), Director (2018 - 2019, 2020 - 2023)
-- Area chair: [ICML](https://icml.cc/), [FAccT](https://facctconference.org/index.html), [CHIL](https://www.chilconference.org/), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
+- Area chair: [FAccT](https://facctconference.org/index.html), [CHIL](https://www.chilconference.org/), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, AIES, KDD, AAAI, WWW, HCOMP
   - Journals: JMLR, TMLR, JAIR, Nature, Machine Learning, TPAMI, TIST, Journal of Biomedical and Health Informatics, IEEE Transactions on Emerging Topics in Computational Intelligence
