@@ -38,7 +38,6 @@ You can reach me at ht395 AT cornell.edu.
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
 - 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
-- 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
 
 For other news, click <a class="paper" href="oldernews.html">here</a>.
 
@@ -132,7 +131,6 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
 - Co-organizer:
   - NeurIPS 2023 and 2024 Workshops ["Regulatable ML"](https://regulatableml.github.io/) (together with Himabindu Lakkaraju, Jiaqi Ma, Chirag Agarwal)
   - Tutorial Chair, [FAccT 2023](https://facctconference.org/2023/) (together with Sina Fazelpour, Angela Zhou)
-  - Diversity & Inclusion Chair, [AISTATS 2022](http://aistats.org/aistats2022/) (together with Pablo Samuel Castro)
   - [Trustworthy ML Initiative](https://www.trustworthyml.org/) (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Chirag Agarwal, Jaydeep Borkar, Marta Lemanczyk, Haohan Wang)
   - ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana) 
   - Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018 (together with Michael Elliott and James O'Malley)  
