@@ -18,7 +18,7 @@ keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, 
         </div>
         
         <div class="span8">
-                <p>I am a researcher interested in AI safety, causal inference, interpretability, and healthcare. Currently, I am a Principal Research Scientist in Responsible AI at Salesforce. I also hold a Visiting Scientist appointment at Cornell University. I co-founded the <a href="https://www.trustworthyml.org/">Trustworthy ML Initiative</a> and am president of <a href="https://www.wiml.org/">Women in Machine Learning (WiML)</a>.</p>   
+                <p>I am a researcher interested in AI safety, causal inference, interpretability, and healthcare. Currently, I am a Principal Research Scientist in Responsible AI at Salesforce. I also hold a Visiting Scientist appointment at Cornell University. 
                   
                   <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee.</p> 
                 
@@ -37,7 +37,6 @@ You can reach me at ht395 AT cornell.edu.
 - 8/24: Co-organizing 2nd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2024. Submit your paper!
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
 - 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
-- 1/23: I have been elected president of the [Women in Machine Learning](https://wimlworkshop.org) organization (WiML).
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 - 9/21: I will be the Diversity & Inclusion Chair for [AISTATS 2022](http://aistats.org/aistats2022/).
 
