@@ -118,7 +118,6 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
-- [Women in Machine Learning](https://wimlworkshop.org) organization (WiML) President (2023 - Present), Vice President (2019 - 2020), Director (2018 - 2019, 2020 - 2023)
 - Area chair: [FAccT](https://facctconference.org/index.html), [CHIL](https://www.chilconference.org/), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
 - Reviewer:
   - Conferences: NeurIPS, ICML, ICLR, AISTATS, AIES, KDD, AAAI, WWW, HCOMP
@@ -141,7 +140,3 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
   - Seeking funding: [2018](https://wimlworkshop.org/2018/program/), [2019](https://wimlworkshop.org/2019/program/), [2020](https://wimlworkshop.org/neurips2020/program/) WiML Workshop
 - Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
 - **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized (together with Ashudeep Singh) the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
-
-<div class="row-fluid"><h3>Miscellaneous</h3>
-</div>
-- I played piano and (bad) ukulele in an Indian fusion carnatic band. We have some videos [here](https://www.youtube.com/playlist?list=PLXf9tYVf-PxM6ESEflnJ8_Oow-j66CgYt)
