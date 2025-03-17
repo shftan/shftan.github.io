@@ -22,7 +22,7 @@ keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, 
                   
                   <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee.</p> 
                 
-<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was also a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I was fortunate to spend summers at Microsoft Research. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook after completing my PhD, and worked in Core Data Science before moving to Responsible AI.</p> 
+<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was fortunate to spend summers at Microsoft Research. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook after completing my PhD, and worked in Core Data Science before moving to Responsible AI.</p> 
 
 </div>
 </div>
@@ -119,27 +119,3 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 
 For older publications and workshop papers, click <a class="paper" href="olderpublications.html">here</a>.
 
-<div class="row-fluid" id="service"><h3>Service</h3>
-</div>
-- Area chair: [FAccT](https://facctconference.org/index.html), [CHIL](https://www.chilconference.org/), [Machine Learning for Health Symposium](https://ml4health.github.io), [Algorithmic Fairness through the Lens of Causality and Privacy](https://www.afciworkshop.org/), [Algorithms Towards Ethical and Privacy Challenges in Social Media Recommendation System](https://sites.google.com/view/aesm2022/home) 
-- Reviewer:
-  - Conferences: NeurIPS, ICML, ICLR, AISTATS, AIES, KDD, AAAI, WWW, HCOMP
-  - Journals: JMLR, TMLR, JAIR, Nature, Machine Learning, TPAMI, TIST, Journal of Biomedical and Health Informatics, IEEE Transactions on Emerging Topics in Computational Intelligence
-  - Workshops: [Fair ML for Health](https://www.fairmlforhealth.com/), [Human-Centric Machine Learning](https://sites.google.com/view/hcml-2019), [Machine Learning for Health](https://ml4health.github.io/2019/), [Human In the Loop Learning](https://sites.google.com/view/hill2019/home), [Safe ML](https://sites.google.com/view/safeml-iclr2019/home), [Computer Vision for Agriculture](https://www.cv4gc.org/cv4a2020/), [Algorithmic Fairness through the Lens of Causality and Interpretability](https://www.afciworkshop.org/), [AI for Public Health Workshop](https://aiforpublichealth.github.io/), [Human in the Loop Learning](https://www.icml-hill.com/), [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/) 
-  - Programs: <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a>
-- Co-organizer:
-  - NeurIPS 2023 and 2024 Workshops ["Regulatable ML"](https://regulatableml.github.io/) (together with Himabindu Lakkaraju, Jiaqi Ma, Chirag Agarwal)
-  - Tutorial Chair, [FAccT 2023](https://facctconference.org/2023/) (together with Sina Fazelpour, Angela Zhou)
-  - [Trustworthy ML Initiative](https://www.trustworthyml.org/) (together with Himabindu Lakkaraju, Sara Hooker, Subhabrata Majumdar, Chhavi Yadav, Chirag Agarwal, Jaydeep Borkar, Marta Lemanczyk, Haohan Wang)
-  - ICLR 2019 Workshop [“Debugging Machine Learning Models”](https://iclr.cc/Conferences/2019/Schedule?showEvent=628) (together with Himabindu Lakkaraju, Julius Adebayo, Jacob Steinhardt, D. Sculley, Rich Caruana) 
-  - Invited Session ["New Advances in Causal Inference for Longitudinal and Survival Data"](http://ww2.amstat.org/meetings/ichps/2018/onlineprogram/Program.cfm) at International Conference on Health Policy Statistics (ICHPS) 2018 (together with Michael Elliott and James O'Malley)  
-  - Topic-Contributed Session ["Statistics for Social Good"](http://shftan.github.io/jsmsocialgood/) at JSM 2016 (together with Rayid Ghani and Hadley Wickham
-  - [2016 WiML Workshop](https://wimlworkshop.org/2016/) (together with Diana Cai, Deborah Hanus, Isabel Valera, Rose Yu). WiML Workshop has grown tremendously, and the year I organized, it had 600 attendees and 200 posters. I am most proud of the mentoring roundtables format we expanded that year, with [50 roundtables on research and career topics](https://wimlworkshop.org/2016/program/#1480549898816-ca283fe3-29b6) bringing together our attendees and experts in close conversation
-- Mentor:
-  - Reviewing: [Machine Learning for Health Workshop](https://ml4health.github.io/2020/) 
-  - Submission: [AI for Public Health Workshop](https://aiforpublichealth.github.io/)
-  - Project: [UCSF's AI4ALL program](http://ai4all.ucsf.edu/)
-  - Research: Causal Inference research roundtable at 2021 WiML Workshop, Trustworthy ML at 2023 WiML Workshop
-  - Seeking funding: [2018](https://wimlworkshop.org/2018/program/), [2019](https://wimlworkshop.org/2019/program/), [2020](https://wimlworkshop.org/neurips2020/program/) WiML Workshop
-- Student representative, [ICHPS 2018](http://ww2.amstat.org/meetings/ichps/2018/) Scientific Committee
-- **Cornell internal**: I was president of the [Statistics Graduate Society](https://stat.cornell.edu/about-us/sgs) and co-organized (together with Ashudeep Singh) the [Cornell Machine Learning reading group](http://wiki.cs.cornell.edu/index.php?title=Machine_Learning_Discussion_Group)
