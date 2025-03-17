@@ -24,9 +24,6 @@ keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, 
                 
 <p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was also a <a href="http://www.dssgfellowship.org/">Data Science for Social Good</a> fellow. I was fortunate to spend summers at Microsoft Research. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook after completing my PhD, and worked in Core Data Science before moving to Responsible AI.</p> 
                 
-        </div>
-</div>
-
 <div class="row-fluid" id="contact"><h3>Contact</h3></div>
 You can reach me at ht395 AT cornell.edu.
 
