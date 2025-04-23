@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Sarah Tan
-description: Research Scientist, Responsible AI
-keywords: Sarah Tan, responsible AI, machine learning, artificial intelligence, statistics
+description: Research Scientist
+keywords: Sarah Tan, machine learning, artificial intelligence, statistics
 ---
 
 <div class="row-fluid" id="about">
@@ -106,6 +106,9 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
 <h4>Preprints</h4>
+-<a class="paper" href="https://arxiv.org/abs/2410.15471">Generative Models, Humans, Predictive Models: Who Is Worse at High-Stakes Decision Making?</a>
+   - K Mallari, J Adebayo, K Inkpen, MT Wells, A Gordo, Tan
+   - Under review
 - <a class="paper" href="https://arxiv.org/abs/2406.10290">MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases</a>
    - R Murthy, L Yang, J Tan, T Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, Tan, J Zhang, Z Liu, S Kokane, Z Liu, M Zhu, H Wang, C Xiong, S Savarese
    - Under review
@@ -119,3 +122,8 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 
 For older publications and workshop papers, click <a class="paper" href="olderpublications.html">here</a>.
 
+<h4>Service</h4>
+- Area Chair, NeurIPS 2025
+- Area Chair, FAccT 2023-2025
+- Area Chair, CHIL 2024-2025
+- Area Chair, Machine Learning for Health Symposium 2020-2023
