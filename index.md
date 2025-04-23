@@ -106,7 +106,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
 <h4>Preprints</h4>
--<a class="paper" href="https://arxiv.org/abs/2410.15471">Generative Models, Humans, Predictive Models: Who Is Worse at High-Stakes Decision Making?</a>
+- <a class="paper" href="https://arxiv.org/abs/2410.15471">Generative Models, Humans, Predictive Models: Who Is Worse at High-Stakes Decision Making?</a>
    - K Mallari, J Adebayo, K Inkpen, MT Wells, A Gordo, Tan
    - Under review
 - <a class="paper" href="https://arxiv.org/abs/2406.10290">MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases</a>
