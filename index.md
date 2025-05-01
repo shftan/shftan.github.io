@@ -115,10 +115,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/2410.14180">XForecast: Evaluating Natural Language Explanations for Time Series Forecasting</a>
    - T Aksu, C Liu, A Saha, Tan, C Xiong, D Sahoo
    - Under review
-- <a class="paper" href="papers/turkercompas.pdf">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
-   - Tan, J Adebayo, K Inkpen, E Kamar
-   - Under review
-   - Preliminary version in _NeurIPS 2018 Workshop on Ethical, Social and Governance Issues in AI_ (<span class="highlight">Spotlight</span>)
 
 For older publications and workshop papers, click <a class="paper" href="olderpublications.html">here</a>.
 
