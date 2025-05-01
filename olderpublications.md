@@ -22,6 +22,9 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 - <span class="paper">Teaching biomedical applications of computer vision using docker containers</span>
    - DS Lituiev, Tan, A Bishara, J H Sohn, J Kornak, D Hadley
    - _UC Conference on AI in Biomedicine 2019_ 
+- <a class="paper" href="https://arxiv.org/abs/1808.09123">Investigating Human + Machine Complementarity: A Case Study on Recidivism</a>
+   - Tan, J Adebayo, K Inkpen, E Kamar
+   - _NeurIPS 2018 Workshop on Ethical, Social and Governance Issues in AI_ (<span class="highlight">Spotlight</span>)
 - <a class="paper" href="papers/aiesdc18.pdf">Interpretable Approaches to Detect Bias in Black-Box Models</a>
    - _AAAI/ACM AIES 2018 Doctoral Consortium_
 - <a class="paper" href="https://arxiv.org/abs/1711.07104">A Double Parametric Bootstrap Test for Topic Models</a>
