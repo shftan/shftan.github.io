@@ -53,7 +53,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
    - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
    - _NAACL 2025_
-   - Also appeared in: _SoCal NLP Symposium 2024_
+   - Also appeared in: _SoCal NLP Symposium 2024_ and _C3NLP 2025 Workshop_
 - <a class="paper" href="https://arxiv.org/abs/2312.04712">Error Discovery By Clustering Influence Embeddings</a>
    - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
    - _NeurIPS 2023_
