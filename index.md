@@ -22,7 +22,7 @@ keywords: Sarah Tan, machine learning, artificial intelligence, statistics
                   
                   <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee.</p> 
                 
-<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was fortunate to spend summers at Microsoft Research. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook after completing my PhD, and worked in Core Data Science before moving to Responsible AI.</p> 
+<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was fortunate to spend summers at Microsoft Research. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook after completing my PhD, and worked in Core Data Science before moving to Responsible AI. Before grad school, I was a data scientist (part of the founding team) at an NLP startup.</p> 
 
 </div>
 </div>
