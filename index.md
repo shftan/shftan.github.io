@@ -18,7 +18,7 @@ keywords: Sarah Tan, machine learning, artificial intelligence, statistics
         </div>
         
         <div class="span8">
-                <p>I am a researcher interested in AI safety, causal inference, interpretability, and healthcare. Currently, I am a Principal Research Scientist at Salesforce. I also hold a Visiting Scientist appointment at Cornell University.</p> 
+                <p>I am a researcher interested in AI safety, causal inference, interpretability, and healthcare. Currently, I am a Principal Research Scientist at Salesforce. I also hold a Visiting Scientist appointment at Cornell University in the College of Computing and Information Science.</p> 
                   
                   <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. My dissertation was on the topic of interpretability of black-box AI models.</p> 
                 
