@@ -119,7 +119,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 
 For older publications and workshop papers, click <a class="paper" href="olderpublications.html">here</a>.
 
-<h4>Service</h4>
+<div class="row-fluid" id="publications"><h3>Service</h3>
 - Area Chair, NeurIPS 2025
 - Area Chair, FAccT 2023-2025
 - Area Chair, CHIL 2024-2025
