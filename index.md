@@ -33,6 +33,7 @@ You can reach me at ht395 AT cornell.edu.
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
 - 8/25: Co-organizing 3rd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2025. Submit your paper!
+- 5/25: Gave a guest lecture to  UC Berkeley's Esade Business and Law exchange students about AI safety.
 - 9/24: Gave a guest lecture for the University of Southern California's ENG 499 "Ethics in Engineering Design of AI Systems" class.
 - 8/24: Representing Salesforce on a US AI Safety Institute task force.
 - 8/24: Co-organizing 2nd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2024. Submit your paper!
