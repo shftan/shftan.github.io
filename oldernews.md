@@ -13,6 +13,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 - 10/24: Gave a guest lecture for the University of Southern California's BUAD 311 "Operations Management" class.
 - 9/24: Gave a guest lecture for the University of Southern California’s ENG 499 “Ethics in Engineering Design of AI Systems” class.
 - 9/24: Was a panelist on NISS' 2024 [Industry Career Fair](https://www.niss.org/events/niss-industry-career-fair-2024). 
+- 8/24: Co-organizing 2nd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2024. Submit your paper!
 - 7/24: Gave President’s Remarks and mentored a roundtable on interpretability at the 2024 Women in Machine Learning Symposium @ ICML.
 - 6/24: Was a panelist on "Exploring AI Career Pathways" for Girls Who Code's high school summer immersion program.
 - 3/24: Gave a guest lecture for Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
