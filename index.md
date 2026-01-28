@@ -32,6 +32,7 @@ You can reach me at ht395 AT cornell.edu.
 
 <div class="row-fluid" id="news"><h3>News</h3>
 </div>
+- 1/26: Representing Salesforce on a Partnership in AI agents monitoring working group.
 - 12/25: Gave an invited talk at the [Evaluating Evaluations Workshop](https://evalevalai.com/events/workshop-2025/), a NeurIPS 2025 satellite event. 
 - 8/25: Co-organizing 3rd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2025. Submit your paper!
 - 5/25: Gave a guest lecture to UC Berkeley's Esade Business and Law exchange students about AI safety.
