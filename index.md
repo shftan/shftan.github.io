@@ -125,5 +125,5 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
 - Area Chair, NeurIPS 2025
 - Area Chair, ICML 2026
 - Area Chair, FAccT 2023-2026
-- Area Chair, CHIL 2024-2025
+- Area Chair, CHIL 2024-2026
 - Area Chair, Machine Learning for Health Symposium 2020-2023
