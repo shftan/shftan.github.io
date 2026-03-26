@@ -123,7 +123,7 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
-- Area Chair, NeurIPS 2025
+- Area Chair, NeurIPS 2025-2026
 - Area Chair, ICML 2026
 - Area Chair, FAccT 2023-2026
 - Area Chair, CHIL 2024-2026
