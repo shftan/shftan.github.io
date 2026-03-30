@@ -20,7 +20,7 @@ keywords: Sarah Tan, machine learning, artificial intelligence, statistics
         <div class="span8">
                 <p>I am a researcher interested in AI safety, causal inference, interpretability, and healthcare. Currently, I am a Principal Research Scientist at Salesforce. I also hold a Visiting Scientist appointment at Cornell University in the College of Computing and Information Science.</p> 
                   
-                  <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a> on my committee. My dissertation was on the topic of interpretability of black-box AI models.</p> 
+                  <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://scholar.google.com/citations?user=B2U8EUwAAAAJ&hl=en">Rich Caruana</a> on my committee. My dissertation was on the topic of interpretability of black-box AI models.</p> 
                 
 <p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was fortunate to spend summers at Microsoft Research. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook after completing my PhD, and worked in Central Applied Science before moving to Responsible AI. I'm also interested in startups, stemming from my experience as a data scientist (part of the founding team) at a NLP startup pre-PhD.</p> 
 
@@ -36,10 +36,8 @@ You can reach me at ht395 AT cornell.edu.
 - 1/26: Representing Salesforce on a Partnership in AI agents monitoring working group and AI safety steering committee.
 - 12/25: Gave an invited talk at the [Evaluating Evaluations Workshop](https://evalevalai.com/events/workshop-2025/), a NeurIPS 2025 satellite event. 
 - 8/25: Co-organizing 3rd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2025. Submit your paper!
-- 5/25: Gave a guest lecture to UC Berkeley's Esade Business and Law exchange students about AI safety.
 - 8/24: Representing Salesforce on a US AI Safety Institute task force.
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
-- 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 
 For other news, click <a class="paper" href="oldernews.html">here</a>.
