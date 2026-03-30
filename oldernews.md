@@ -8,6 +8,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 <div class="row-fluid" id="news"><h3>Older News</h3>
 </div>
 - 12/25: Gave President's Remarks and mentored a roundtable on Keeping Up With Academia in Industry at the 2025 Women in Machine Learning Workshop @ NeurIPS.
+- 5/25: Gave a guest lecture to UC Berkeley's Esade Business and Law exchange students about AI safety.
 - 12/24: Gave President's Remarks and mentored a roundtable on Non-Traditional Paths to ML at the 2024 Women in Machine Learning Workshop @ NeurIPS.
 - 10/24: Gave a guest lecture for the University of Southern California's BUAD 311 "Operations Management" class.
 - 9/24: Gave a guest lecture for the University of Southern California’s ENG 499 “Ethics in Engineering Design of AI Systems” class.
@@ -17,6 +18,7 @@ keywords: Sarah Tan, Cornell, Statistics, interpretability, causal inference
 - 6/24: Was a panelist on "Exploring AI Career Pathways" for Girls Who Code's high school summer immersion program.
 - 3/24: Gave a guest lecture for Stanford University's CS131 "Computer Vision: Foundations and Applications" class.
 - 12/23: Gave President's Remarks and mentored a roundtable on Trustworthy ML at the 2023 Women in Machine Learning Workshop @ NeurIPS.
+- 9/23: Was a panelist at Columbia Business School's Challenges in Operationalizing Responsible AI workshop. 
 - 7/23: I will be co-organizing a workshop at NeurIPS 2023 on [Regulatable ML](https://regulatableml.github.io/). Submit your paper!
 - 7/23: Gave President's Remarks at the 2023 Women in Machine Learning Un-Workshop @ ICML.
 - 1/22: I was on a panel on post-phd plans organized by Cornell University's Graduate Students for Gender Inclusion in Computing. 
