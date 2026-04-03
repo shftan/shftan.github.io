@@ -107,6 +107,9 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
    
 <h4>Preprints</h4>
+- <a class="paper" href="https://arxiv.org/abs/2506.04305">Enduring Disparities in the Workplace: A Pilot Study in the AI Community</a>
+   - Y S Abdulsalam, S M Hall, A Quintero-Ossa, W Agnew, C Muntean, Tan, A Heady, S Thais, J Schrouff
+    - Under review
 - <a class="paper" href="https://arxiv.org/abs/2410.15471">Generative Models, Humans, Predictive Models: Who Is Worse at High-Stakes Decision Making?</a>
    - K Mallari, J Adebayo, K Inkpen, MT Wells, A Gordo, Tan
    - Under review
