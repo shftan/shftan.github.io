@@ -105,7 +105,12 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - <span class="highlight">2 Best Paper Awards</span> from American Sociological Association's [CITAMS](https://citams.org/citasa-awards) and [CBSM](http://cbsm-asa.org/awards) sections 
    - Media coverage: [The Guardian](https://www.theguardian.com/environment/2015/sep/02/gasland-hbo-documentary-fracking-opposition), [The Atlantic](https://www.theatlantic.com/entertainment/archive/2017/02/a-common-theme-for-this-years-oscar-nominated-documentaries/517638/), [Pacific Standard](https://psmag.com/environment/a-fracking-effective-film)
    - Press releases: [University of Iowa](http://www.newswise.com/articles/the-power-of-film), [Harmony Institute](https://harmonylabs.org/gasland)
-   
+
+<h4>Patents</h4>
+- <a class="paper" href="https://arxiv.org/abs/2410.14180">XForecast: Evaluating Natural Language Explanations for Time Series Forecasting</a>
+   - T Aksu, C Liu, A Saha, Tan, C Xiong, D Sahoo
+   - [Patent application](https://patents.google.com/patent/US20250384241A1)
+  
 <h4>Preprints</h4>
 - <a class="paper" href="https://arxiv.org/abs/2506.04305">Enduring Disparities in the Workplace: A Pilot Study in the AI Community</a>
    - Y S Abdulsalam, S M Hall, A Quintero-Ossa, W Agnew, C Muntean, Tan, A Heady, S Thais, J Schrouff
@@ -115,9 +120,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Under review
 - <a class="paper" href="https://arxiv.org/abs/2406.10290">MobileAIBench: Benchmarking LLMs and LMMs for On-Device Use Cases</a>
    - R Murthy, L Yang, J Tan, T Awalgaonkar, Y Zhou, S Heinecke, S Desai, J Wu, R Xu, Tan, J Zhang, Z Liu, S Kokane, Z Liu, M Zhu, H Wang, C Xiong, S Savarese
-   - Under review
-- <a class="paper" href="https://arxiv.org/abs/2410.14180">XForecast: Evaluating Natural Language Explanations for Time Series Forecasting</a>
-   - T Aksu, C Liu, A Saha, Tan, C Xiong, D Sahoo
    - Under review
 
 For older publications and workshop papers, click <a class="paper" href="olderpublications.html">here</a>.
