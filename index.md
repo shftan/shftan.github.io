@@ -112,6 +112,9 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - [Patent application](https://patents.google.com/patent/US20250384241A1)
   
 <h4>Preprints</h4>
+- <a class="paper" href="https://arxiv.org/abs/2606.12918">MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems</a>
+    - C Xu, Z Chen, J Zhang, F Lecue, A Kothari, Tan, W Guo, B Li
+    - Under review
 - <a class="paper" href="https://arxiv.org/abs/2506.04305">Enduring Disparities in the Workplace: A Pilot Study in the AI Community</a>
    - Y S Abdulsalam, S M Hall, A Quintero-Ossa, W Agnew, C Muntean, Tan, A Heady, S Thais, J Schrouff
     - Under review
