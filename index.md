@@ -115,6 +115,9 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/2606.12918">MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems</a>
     - C Xu, Z Chen, J Zhang, F Lecue, A Kothari, Tan, W Guo, B Li
     - Under review
+- <a class="paper" href="https://arxiv.org/abs/2606.25108">The Clinician’s Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing</a>
+    - E LaRocco, Tan, A Subbaswamy, A Andrews, A Taylor, C Gaskin, C Agarwal
+    - Under review
 - <a class="paper" href="https://arxiv.org/abs/2506.04305">Enduring Disparities in the Workplace: A Pilot Study in the AI Community</a>
    - Y S Abdulsalam, S M Hall, A Quintero-Ossa, W Agnew, C Muntean, Tan, A Heady, S Thais, J Schrouff
     - Under review
