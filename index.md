@@ -132,10 +132,5 @@ For older publications and workshop papers, click <a class="paper" href="olderpu
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
-- Area Chair, NeurIPS 2025-2026
-- Area Chair, ICML 2026
-- Area Chair, FAccT 2023-2026
-- Area Chair, CHIL 2024-2026
-- Area Chair, AAAI 2026
-- Area Chair, Machine Learning for Health Symposium 2020-2023
-- Reviewer, ICLR, AISTATS, AAAI, WWW, JAIR, Nature, Machine Learning, TMLR, TPAMI, TIST, Journal of Biomedical and Health Informatics
+- Area Chair for NeurIPS 2025-2026, ICML 2026, FAccT 2023-2026, CHIL 2024-2026, AAAI 2026, Machine Learning for Health Symposium 2020-2023
+- Reviewer for ICLR, AISTATS, AAAI, WWW, JAIR, Nature, Machine Learning, TMLR, TPAMI, TIST, Journal of Biomedical and Health Informatics
