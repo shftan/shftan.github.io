@@ -115,6 +115,12 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://arxiv.org/abs/2606.12918">MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems</a>
     - C Xu, Z Chen, J Zhang, F Lecue, A Kothari, Tan, W Guo, B Li
     - Under review
+- <span class="paper">ErosionBench: Probing Alignment Decay in Enterprise Multi-Agent Systems</span>
+   - R Bharathwaj, A Prabhakar, R Ram, A Kothari, Tan, H Wang, S Savarese
+    - Under review 
+- <span class="paper">The Observability Gap in Multi-Agent AI Systems</span>
+   - E Mibuari, M Srikumar, CR Leibowicz, Tan, B Blili-Hamelin, VX Nguyen, A Oueslati, A Sanka, XH Lu, J Stanley, KW Hall, K Klyman
+    - Under review 
 - <a class="paper" href="https://arxiv.org/abs/2606.25108">The Clinician’s Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing</a>
     - E LaRocco, Tan, A Subbaswamy, A Andrews, A Taylor, C Gaskin, C Agarwal
     - Under review
