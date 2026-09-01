@@ -36,7 +36,7 @@ You can reach me at ht395 AT cornell.edu.
 - 1/26: Representing Salesforce on a Partnership in AI agents monitoring working group and AI safety steering committee.
 - 12/25: Gave an invited talk at the [Evaluating Evaluations Workshop](https://evalevalai.com/events/workshop-2025/), a NeurIPS 2025 satellite event. 
 - 8/25: Co-organizing 3rd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2025. Submit your paper!
-- 8/24: Representing Salesforce on a US AI Safety Institute task force.
+- 8/24: Representing Salesforce on a US AI Safety Institute / Center for AI Standards and Innovation / NIST working group
 - 5/24: Did a fireside chat in the University of Colorado Denver's PUAD 6600 "AI for Public Sector Innovation" class.
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 
