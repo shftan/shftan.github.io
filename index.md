@@ -20,9 +20,7 @@ keywords: Sarah Tan, machine learning, artificial intelligence, statistics
         <div class="span8">
                 <p>I am a researcher interested in AI safety, causal inference, interpretability, and healthcare. Currently, I am a Principal Research Scientist at Salesforce.</p> 
                   
-                  <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://scholar.google.com/citations?user=B2U8EUwAAAAJ&hl=en">Rich Caruana</a> on my committee. My dissertation was on the topic of interpretability of black-box AI models.</p> 
-                
-<p>Previously, I studied at Berkeley and Columbia, and worked in public policy in NYC, including the health department and public hospitals system. I was fortunate to spend summers at Microsoft Research. Towards the end of my PhD studies, I was a visiting student and bioinformatics programmer at <a href="https://epibiostat.ucsf.edu/">UCSF</a> medical school. I joined Facebook after completing my PhD, and worked in Central Applied Science before moving to Responsible AI. I'm also interested in startups, stemming from my experience as a data scientist (part of the founding team) at a NLP startup pre-PhD.</p> 
+                  <p>I received my PhD in Statistics from <a href="https://stat.cornell.edu/">Cornell University</a>, where I was advised by <a href="http://faculty.bscb.cornell.edu/~hooker/">Giles Hooker</a> and <a href="https://courses.cit.cornell.edu/mtw1/">Martin Wells</a>, with <a href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a href="https://scholar.google.com/citations?user=B2U8EUwAAAAJ&hl=en">Rich Caruana</a> on my committee. My dissertation was on the topic of interpretability of black-box AI models. Before graduate school, I studied at Berkeley and worked in public policy in NYC, including the health department and public hospitals system. I have worked at Facebook, UCSF, and Microsoft Research. I'm also interested in startups, stemming from my experience as part of the founding team at a NLP startup pre graduate school.</p> 
 
 </div>
 </div>
@@ -41,12 +39,6 @@ You can reach me at ht395 AT cornell.edu.
 - 1/23: I will be the Tutorial Chair for [FAccT 2023](https://facctconference.org/2023/index.html).
 
 For other news, click <a class="paper" href="oldernews.html">here</a>.
-
-<div class="row-fluid" id="code"><h3>Code & Data</h3>
-</div>
-- [Code](https://github.com/shftan/tree_ensemble_distance) for gradient boosted trees distance proposed in [tree space prototypes paper](https://arxiv.org/abs/1611.07115)
-- R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
-- [Data and code](https://github.com/shftan/auditblackbox) for [distilling black-box risk scores paper](https://arxiv.org/abs/1710.06169)
 
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
@@ -135,6 +127,12 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
    - Under review
 
 For older publications and workshop papers, click <a class="paper" href="olderpublications.html">here</a>.
+
+<div class="row-fluid" id="code"><h3>Code & Data</h3>
+</div>
+- [Code](https://github.com/shftan/tree_ensemble_distance) for gradient boosted trees distance proposed in [tree space prototypes paper](https://arxiv.org/abs/1611.07115)
+- R package [surfin: (Statistical Inference for Random Forests)](http://shftan.github.io/surfin/)
+- [Data and code](https://github.com/shftan/auditblackbox) for [distilling black-box risk scores paper](https://arxiv.org/abs/1710.06169)
 
 <div class="row-fluid" id="service"><h3>Service</h3>
 </div>
