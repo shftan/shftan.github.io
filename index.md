@@ -45,8 +45,8 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 </div>
 <h4>Publications</h4>
 - <a class="paper" href="[https://arxiv.org/abs/2410.23252](https://partnershiponai.org/wp-content/uploads/2026/10/PAI_obervability-gap-in-ai-agents.pdf)">The Observability Gap in AI Agents</a>
-- M Srikumar, E Mibuari, C Leibowicz, B Blili-Hamelin, K Klyman, D Leininger, K Hall, XH Lu, S McGregor, V Nguyen, A Oueslati, A Sanka, J Stanley, B Stroebl, Tan, S Thandavarayan
-    - _Partnership in AI Whitepaper_
+   - M Srikumar, E Mibuari, C Leibowicz, B Blili-Hamelin, K Klyman, D Leininger, K Hall, XH Lu, S McGregor, V Nguyen, A Oueslati, A Sanka, J Stanley, B Stroebl, Tan, S Thandavarayan
+   - _Partnership in AI Whitepaper_
 - <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
    - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
    - _NAACL 2025_
