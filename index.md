@@ -43,7 +43,10 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
-<h4>Journal and Conference Papers</h4>
+<h4>Publications</h4>
+- <a class="paper" href="[https://arxiv.org/abs/2410.23252](https://partnershiponai.org/wp-content/uploads/2026/10/PAI_obervability-gap-in-ai-agents.pdf)">The Observability Gap in AI Agents</a>
+- M Srikumar, E Mibuari, C Leibowicz, B Blili-Hamelin, K Klyman, D Leininger, K Hall, XH Lu, S McGregor, V Nguyen, A Oueslati, A Sanka, J Stanley, B Stroebl, Tan, S Thandavarayan
+    - _Partnership in AI Whitepaper_
 - <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
    - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
    - _NAACL 2025_
@@ -110,9 +113,6 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
     - Under review
 - <span class="paper">ErosionBench: Probing Alignment Decay in Enterprise Multi-Agent Systems</span>
    - R Bharathwaj, A Prabhakar, R Ram, A Kothari, Tan, H Wang, S Savarese
-    - Under review 
-- <span class="paper">The Observability Gap in Multi-Agent AI Systems</span>
-   - E Mibuari, M Srikumar, CR Leibowicz, Tan, B Blili-Hamelin, VX Nguyen, A Oueslati, A Sanka, XH Lu, J Stanley, KW Hall, K Klyman
     - Under review 
 - <a class="paper" href="https://arxiv.org/abs/2606.25108">The Clinician’s Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing</a>
     - E LaRocco, Tan, A Subbaswamy, A Andrews, A Taylor, C Gaskin, C Agarwal
