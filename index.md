@@ -32,7 +32,7 @@ You can reach me at ht395 AT cornell.edu.
 </div>
 - 9/26: Invited participant at the Digital Trust Council and Berkman Klein Center's [AI Trust Summit](https://digitaltrustcouncil.com/summit).
 - 3/26: Gave a guest lecture to UC Berkeley's MBA/EWMBA 277 "Ethical AI Business Design" class.
-- 1/26: Representing Salesforce on a Partnership in AI agents monitoring working group and AI safety steering committee.
+- 1/26: Representing Salesforce on a Partnership on AI agents monitoring working group and AI safety steering committee.
 - 12/25: Gave an invited talk at the [Evaluating Evaluations Workshop](https://evalevalai.com/events/workshop-2025/), a NeurIPS 2025 satellite event. 
 - 8/25: Co-organizing 3rd edition of [Regulatable ML](https://regulatableml.github.io/) workshop at NeurIPS 2025. Submit your paper!
 - 8/24: Representing Salesforce on a US AI Safety Institute / Center for AI Standards and Innovation / NIST working group
