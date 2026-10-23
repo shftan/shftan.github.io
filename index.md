@@ -47,10 +47,11 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://partnershiponai.org/wp-content/uploads/2026/10/PAI_obervability-gap-in-ai-agents.pdf">The Observability Gap in AI Agents</a>
    - M Srikumar, E Mibuari, C Leibowicz, B Blili-Hamelin, K Klyman, D Leininger, K Hall, XH Lu, S McGregor, V Nguyen, A Oueslati, A Sanka, J Stanley, B Stroebl, Tan, S Thandavarayan
    - _Partnership on AI Whitepaper_
+    - Also appeared in: _NeurIPS 2026 Foundations of Agentic Systems Theory Workshop_
 - <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
    - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
    - _NAACL 2025_
-   - Also appeared in: _SoCal NLP Symposium 2024_ and _C3NLP 2025 Workshop_
+   - Also appeared in: _SoCal NLP Symposium 2024_ and _NAACL 2025 Cross-Cultural Considerations in NLP Workshop_
 - <a class="paper" href="https://arxiv.org/abs/2312.04712">Error Discovery By Clustering Influence Embeddings</a>
    - F Wang, J Adebayo, Tan, D Garcia-Olano, N Kokhlikyan
    - _NeurIPS 2023_
@@ -114,6 +115,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">ErosionBench: Probing Alignment Decay in Enterprise Multi-Agent Systems</span>
    - R Bharathwaj, A Prabhakar, R Ram, A Kothari, Tan, H Wang, S Savarese
     - Under review 
+    - Also appeared in: _EMNLP 2026 Research on Agent Language Models Workshop_
 - <a class="paper" href="https://arxiv.org/abs/2606.25108">The Clinician’s Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing</a>
     - E LaRocco, Tan, A Subbaswamy, A Andrews, A Taylor, C Gaskin, C Agarwal
     - Under review
