@@ -106,7 +106,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 <h4>Patents</h4>
 - <span class="paper">Large language model (LLM) benchmark for customer relationship management (CRM)</span>
    - SR Joty, L Tu, P Wang, B Legrand, S Tan, CO Donnell, J Bowen
-   - [Patent application](https://patents.google.com/patent/US20260228750A1/en))
+   - [Patent application](https://patents.google.com/patent/US20260228750A1/en)
    
 - <a class="paper" href="https://arxiv.org/abs/2410.14180">XForecast: Evaluating Natural Language Explanations for Time Series Forecasting</a>
    - T Aksu, C Liu, A Saha, Tan, C Xiong, D Sahoo
