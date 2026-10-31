@@ -47,7 +47,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <a class="paper" href="https://partnershiponai.org/wp-content/uploads/2026/10/PAI_obervability-gap-in-ai-agents.pdf">The Observability Gap in AI Agents</a>
    - M Srikumar, E Mibuari, C Leibowicz, B Blili-Hamelin, K Klyman, D Leininger, K Hall, XH Lu, S McGregor, V Nguyen, A Oueslati, A Sanka, J Stanley, B Stroebl, Tan, S Thandavarayan
    - _Partnership on AI Whitepaper_
-    - Also appeared in: _NeurIPS 2026 Foundations of Agentic Systems Theory Workshop_
+    - Also appeared in: [MIT Technology Review](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/), _NeurIPS 2026 Foundations of Agentic Systems Theory Workshop_
 - <a class="paper" href="https://arxiv.org/abs/2410.23252">Evaluating Cultural and Social Awareness of LLM Web Agents</a>
    - H Qiu, AR Fabbri, D Agarwal, KH Huang, Tan, N Peng, CS Wu
    - _NAACL 2025_
