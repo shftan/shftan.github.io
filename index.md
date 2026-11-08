@@ -44,7 +44,7 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 <div class="row-fluid" id="publications"><h3>Publications and Preprints</h3>
 </div>
 <h4>Publications</h4>
-- <a class="paper" href="https://partnershiponai.org/wp-content/uploads/2026/10/PAI_obervability-gap-in-ai-agents.pdf">The Observability Gap in AI Agents</a>
+- <a class="paper" href="https://partnershiponai.org/wp-content/uploads/2026/10/PAI_obervability-gap-in-ai-agents.pdf">The Observability Gap in AI Agents: What to Fix Before Agents Scale</a>
    - M Srikumar, E Mibuari, C Leibowicz, B Blili-Hamelin, K Klyman, D Leininger, K Hall, XH Lu, S McGregor, V Nguyen, A Oueslati, A Sanka, J Stanley, B Stroebl, Tan, S Thandavarayan
    - _Partnership on AI Whitepaper_
     - Also appeared in: _NeurIPS 2026 Foundations of Agentic Systems Theory Workshop_. Included in UN internal daily briefing on AI.
