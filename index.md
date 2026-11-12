@@ -108,10 +108,10 @@ For other news, click <a class="paper" href="oldernews.html">here</a>.
 - <span class="paper">Large language model (LLM) benchmark for customer relationship management (CRM)</span>
    - SR Joty, L Tu, P Wang, B Legrand, S Tan, CO Donnell, J Bowen
    - [Patent application](https://patents.google.com/patent/US20260228750A1/en)
-   
-- <a class="paper" href="https://arxiv.org/abs/2410.14180">XForecast: Evaluating Natural Language Explanations for Time Series Forecasting</a>
+
+- <span class="paper">Systems and methods for neural network based language models of forecast explanation</span>
    - T Aksu, C Liu, A Saha, Tan, C Xiong, D Sahoo
-   - [Patent application](https://patents.google.com/patent/US20250384241A1)
+   - [Patent application](https://patents.google.com/patent/US20250384241A1). [Preprint](https://arxiv.org/abs/2410.14180)
   
 <h4>Preprints</h4>
 - <a class="paper" href="https://arxiv.org/abs/2606.12918">MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems</a>
